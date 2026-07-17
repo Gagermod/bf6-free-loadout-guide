@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
+import Image from "next/image";
 import styles from "./page.module.scss";
 
 interface LoadoutItem {
@@ -72,15 +73,16 @@ export default function WeaponApp({
     setLoading(false);
   }, []);
 
-  useEffect(() => {
-    if (selectedSlug) {
-      loadWeapon(selectedSlug);
-      setRank(1);
+  const handleSelectWeapon = useCallback((slug: string | null) => {
+    setRank(1);
+    setSelectedSlug(slug);
+    if (slug) {
+      loadWeapon(slug);
     } else {
       setWeaponData(null);
       setModeData(null);
     }
-  }, [selectedSlug, loadWeapon]);
+  }, [loadWeapon]);
 
   useEffect(() => {
     if (weaponData) {
@@ -152,10 +154,10 @@ export default function WeaponApp({
                 <div key={w.slug}>
                   <div
                     className={`${styles.item} ${isActive ? styles.itemActive : ""}`}
-                    onClick={() => setSelectedSlug(isActive ? null : w.slug)}
+                    onClick={() => handleSelectWeapon(isActive ? null : w.slug)}
                   >
                     <div className={styles.itemInfo}>
-                      {w.image && <img className={styles.itemImg} src={w.image} alt="" loading="lazy" />}
+                      {w.image && <Image className={styles.itemImg} src={w.image} alt="" width={48} height={28} loading="lazy" unoptimized />}
                       <div className={styles.itemName}>{w.displayName}</div>
                     </div>
                     <div className={styles.itemRight}>
@@ -169,7 +171,7 @@ export default function WeaponApp({
                   </div>
                   {isActive && weaponData && (
                     <div className={styles.itemDetailMobile}>
-                      <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => setSelectedSlug(null)} loading={loading} />
+                      <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => handleSelectWeapon(null)} loading={loading} />
                     </div>
                   )}
                 </div>
@@ -180,7 +182,7 @@ export default function WeaponApp({
           {selectedSlug && weaponData && (
             <div className={styles.detail}>
               <div className={styles.detailInner}>
-                <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => setSelectedSlug(null)} loading={loading} />
+                <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => handleSelectWeapon(null)} loading={loading} />
               </div>
             </div>
           )}
@@ -259,12 +261,14 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
     }
 
     if (Object.keys(changes).length > 0) {
-      setChangedSlots(changes);
-      if (animTimeoutRef.current) clearTimeout(animTimeoutRef.current);
-      animTimeoutRef.current = setTimeout(() => setChangedSlots({}), 900);
+      requestAnimationFrame(() => {
+        setChangedSlots(changes);
+        if (animTimeoutRef.current) clearTimeout(animTimeoutRef.current);
+        animTimeoutRef.current = setTimeout(() => setChangedSlots({}), 900);
+      });
     }
     prevLoadoutRef.current = { ...loadout };
-  }, [rank, modeKey]);
+  }, [loadout]);
 
   return (
     <>
@@ -282,7 +286,7 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
 
       {weapon.image && (
         <div className={styles.weaponImage}>
-          <img src={weapon.image} alt={`${weapon.displayName} loadout`} />
+          <Image src={weapon.image} alt={`${weapon.displayName} loadout`} width={600} height={80} unoptimized />
         </div>
       )}
 
