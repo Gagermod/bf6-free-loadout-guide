@@ -39,3 +39,30 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE
+.idea/
+.vscode/
+
+# AI tooling
+.mimocode/
+
+# scraped data & temp files
+scripts/*-scraped*.json
+scripts/*-output*.txt
+scripts/debug-*.mjs
+scripts/check-*.mjs
+scripts/decrypt-*.mjs
+scripts/fix-*.mjs
+scripts/scrape-*.mjs
+scripts/scan-names.mjs
+scripts/verify-*.mjs
+scripts/*.png
+scripts/*.txt
+!scripts/scrape-generic.mjs
+!scripts/apply-scraped.mjs
+!scripts/decrypt-carbines.mjs
+
+# generated reports
+weight-check-report.txt
+weight-verification-report.txt

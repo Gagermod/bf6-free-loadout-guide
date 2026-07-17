@@ -1,0 +1,1744 @@
+{
+  "weapon": "lmr27",
+  "mode": "ranked",
+  "loadouts": {
+    "0": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "1": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "2": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "3": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "4": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "5": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "6": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Fast Mag",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "7": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Fast Mag",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "8": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Fast Mag",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "9": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Fast Mag",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "10": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Fast Mag",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "11": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Fast Mag",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "12": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Factory Angled",
+        "cost": 25,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Fast Mag",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "13": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "6H64 Vertical",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "10RND Fast Mag",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "14": {
+      "Barrel": {
+        "name": "21.5\" Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "6H64 Vertical",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "15": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "6H64 Vertical",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "16": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "17": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "18": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "19": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "20": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "21": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "22": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "23": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "24": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "25": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "26": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "27": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "28": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "29": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "30": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "31": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "32": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "33": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "34": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "35": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "36": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "37": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "38": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "39": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "40": {
+      "Barrel": {
+        "name": "24\" Extended",
+        "cost": 15,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 45,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    }
+  }
+}

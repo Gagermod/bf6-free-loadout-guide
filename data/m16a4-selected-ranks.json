@@ -1,0 +1,6969 @@
+{
+  "weapon": "m16a4",
+  "modes": {
+    "battle-royale": {
+      "1": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "2": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R4T 2.00X",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        }
+      },
+      "3": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "4": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "5": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "6": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LINEAR COMP",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "7": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LINEAR COMP",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "8": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LINEAR COMP",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "9": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LINEAR COMP",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "10": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LINEAR COMP",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "11": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "PTT Grip Pod",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Linear Comp",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "12": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "PTT Grip Pod",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Linear Comp",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "13": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Linear Comp",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "14": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Linear Comp",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "15": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Linear Comp",
+          "cost": 10,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "16": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "17": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "18": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "19": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "20": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "21": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "22": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "23": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "24": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "25": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "26": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "27": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Folding Stubby",
+          "cost": 25,
+          "mastery": 19,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "28": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 28,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "29": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 28,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "30": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 28,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "31": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 28,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "Polymer Case",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "32": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Stippled Stubby",
+          "cost": 35,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "Polymer Case",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "33": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Stippled Stubby",
+          "cost": 35,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "Polymer Case",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "34": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Low-Profile Stubby",
+          "cost": 30,
+          "mastery": 34,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "35": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Low-Profile Stubby",
+          "cost": 30,
+          "mastery": 34,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "36": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Low-Profile Stubby",
+          "cost": 30,
+          "mastery": 34,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "37": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Low-Profile Stubby",
+          "cost": 30,
+          "mastery": 34,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "38": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Low-Profile Stubby",
+          "cost": 30,
+          "mastery": 34,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "39": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 36,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Lightened Suppressor",
+          "cost": 30,
+          "mastery": 39,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "40": {
+        "Barrel": {
+          "name": "20\" HBAR",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "CLASSIC VERTICAL",
+          "cost": 35,
+          "mastery": 36,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LIGHTENED SUPPRESSOR",
+          "cost": 30,
+          "mastery": 39,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND FAST MAG",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      }
+    },
+    "ranked": {
+      "1": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "2": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R4T 2.00X",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        }
+      },
+      "3": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "4": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "5": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "6": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "7": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "8": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "9": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "10": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "11": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "12": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "13": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "14": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "15": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "16": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "17": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "18": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "19": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "20": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "21": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "22": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "23": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "24": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "25": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "26": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "27": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "28": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "29": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "30": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "31": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "Polymer Case",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "32": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "Polymer Case",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "33": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "Polymer Case",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "34": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "Polymer Case",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "35": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Top Accessory": {
+          "name": "50 MW Blue",
+          "cost": 20,
+          "mastery": 35,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "36": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Top Accessory": {
+          "name": "50 MW Blue",
+          "cost": 20,
+          "mastery": 35,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "37": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Top Accessory": {
+          "name": "50 MW Blue",
+          "cost": 20,
+          "mastery": 35,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "38": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 27,
+          "unlock": null
+        },
+        "Top Accessory": {
+          "name": "50 MW Blue",
+          "cost": 20,
+          "mastery": 35,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "39": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "Polymer Case",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Lightened Suppressor",
+          "cost": 30,
+          "mastery": 39,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      },
+      "40": {
+        "Barrel": {
+          "name": "20\" HBAR",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM ANGLED",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "POLYMER CASE",
+          "cost": 10,
+          "mastery": 31,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LIGHTENED SUPPRESSOR",
+          "cost": 30,
+          "mastery": 39,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND FAST MAG",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 3,
+          "unlock": null
+        }
+      }
+    },
+    "big-maps": {
+      "1": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "2": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R4T 2.00X",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        }
+      },
+      "3": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R4T 2.00X",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        }
+      },
+      "4": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R4T 2.00X",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        }
+      },
+      "5": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R4T 2.00X",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        }
+      },
+      "6": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R4T 2.00X",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        }
+      },
+      "7": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R4T 2.00X",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        }
+      },
+      "8": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "9": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "10": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "11": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "12": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "13": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "14": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "A-P2 1.75x",
+          "cost": 10,
+          "mastery": 14,
+          "unlock": null
+        }
+      },
+      "15": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "A-P2 1.75x",
+          "cost": 10,
+          "mastery": 14,
+          "unlock": null
+        }
+      },
+      "16": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "A-P2 1.75x",
+          "cost": 10,
+          "mastery": 14,
+          "unlock": null
+        }
+      },
+      "17": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "A-P2 1.75x",
+          "cost": 10,
+          "mastery": 14,
+          "unlock": null
+        }
+      },
+      "18": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "A-P2 1.75x",
+          "cost": 10,
+          "mastery": 14,
+          "unlock": null
+        }
+      },
+      "19": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "A-P2 1.75x",
+          "cost": 10,
+          "mastery": 14,
+          "unlock": null
+        }
+      },
+      "20": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "A-P2 1.75x",
+          "cost": 10,
+          "mastery": 14,
+          "unlock": null
+        }
+      },
+      "21": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "A-P2 1.75x",
+          "cost": 10,
+          "mastery": 14,
+          "unlock": null
+        }
+      },
+      "22": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "23": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "24": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "25": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "26": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "27": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "28": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "29": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "30": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "31": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "32": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "33": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "34": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "35": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "36": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "37": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "38": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "39": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Lightened Suppressor",
+          "cost": 30,
+          "mastery": 39,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      },
+      "40": {
+        "Barrel": {
+          "name": "20\" HBAR",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LIGHTENED SUPPRESSOR",
+          "cost": 30,
+          "mastery": 39,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 RECIEVER",
+          "cost": 25,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75X",
+          "cost": 10,
+          "mastery": 22,
+          "unlock": null
+        }
+      }
+    },
+    "small-maps": {
+      "1": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "2": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "3": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "4": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "5": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "6": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING STUBBY",
+          "cost": 20,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "7": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "8": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "9": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "R-MR 1.00X",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        }
+      },
+      "10": {
+        "Barrel": {
+          "name": "20\" FACTORY",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH HIDER",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "RAIL COVER",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "MINI FLEX 1.00X",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "11": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "12": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "13": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "14": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "Rail Cover",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "15": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Hider",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "16": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "17": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "18": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "19": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "20": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "21": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "22": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "23": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "24": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 11,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "25": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "26": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "27": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "28": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "29": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "30": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "31": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "32": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "33": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "34": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "35": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "36": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "37": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "38": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "39": {
+        "Barrel": {
+          "name": "20\" Factory",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Lightened Suppressor",
+          "cost": 30,
+          "mastery": 39,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 Receiver",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Mini Flex 1.00x",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      },
+      "40": {
+        "Barrel": {
+          "name": "20\" HBAR",
+          "cost": 10,
+          "mastery": 25,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LIGHTENED SUPPRESSOR",
+          "cost": 30,
+          "mastery": 39,
+          "unlock": null
+        },
+        "Ergonomics": {
+          "name": "A3 RECIEVER",
+          "cost": 25,
+          "mastery": 15,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30RND MAGAZINE",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "MINI FLEX 1.00X",
+          "cost": 10,
+          "mastery": 10,
+          "unlock": null
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1858 @@
+{
+  "weapon": "nvo-228e",
+  "mode": "big-maps",
+  "loadouts": {
+    "0": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "1": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "2": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "3": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "4": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "5": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "6": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "7": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "8": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "9": {
+      "Barrel": {
+        "name": "409mm Factory",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "10": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "11": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "12": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "13": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 9,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "14": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Ribbed Vertical",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "15": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Ribbed Vertical",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Hollow Point",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "16": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "6H64 Vertical",
+        "cost": 25,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "17": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "6H64 Vertical",
+        "cost": 25,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "18": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "6H64 Vertical",
+        "cost": 25,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "19": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "6H64 Vertical",
+        "cost": 25,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "20": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "6H64 Vertical",
+        "cost": 25,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "21": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "22": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "23": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "24": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "25": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "26": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "3VZR 1.75x",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      }
+    },
+    "27": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "28": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "29": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "30": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "31": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "32": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "33": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "34": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "35": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "36": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "37": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "38": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "39": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    },
+    "40": {
+      "Barrel": {
+        "name": "458mm Custom",
+        "cost": 15,
+        "mastery": 10,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Polymer Case",
+        "cost": 10,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Magazine": {
+        "name": "30RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 27,
+        "unlock": null
+      }
+    }
+  }
+}

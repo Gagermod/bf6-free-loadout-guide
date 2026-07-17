@@ -1,0 +1,865 @@
+@use '../styles/mixins' as *;
+
+.page {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  @include container;
+
+  width: 100%;
+  max-width: 1100px;
+  flex: 1;
+  padding-top: 3.5rem;
+  padding-bottom: 2rem;
+}
+
+// Header
+.header {
+  margin-bottom: 3rem;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  margin-bottom: 0.75rem;
+}
+
+.title {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 1;
+  color: var(--color-white);
+  letter-spacing: -0.02em;
+  margin-bottom: 0.75rem;
+}
+
+.subtitle {
+  font-size: 1rem;
+  color: var(--color-gray-60);
+}
+
+// Toolbar
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+
+  @include mobile {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+.search {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.searchIcon {
+  position: absolute;
+  left: 0.875rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--color-gray-60);
+  pointer-events: none;
+}
+
+.searchInput {
+  width: 220px;
+  padding: 0.625rem 0.875rem 0.625rem 2.5rem;
+  font-size: 0.875rem;
+  background: var(--color-black-12);
+  border: 1px solid var(--color-black-15);
+  border-radius: var(--radius-s);
+  color: var(--color-white);
+  outline: none;
+  transition: border-color var(--transition);
+
+  &::placeholder {
+    color: var(--color-gray-60);
+  }
+
+  &:focus {
+    border-color: var(--color-black-25);
+  }
+}
+
+.filters {
+  display: flex;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.filterBtn {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--radius-s);
+  color: var(--color-gray-60);
+  cursor: pointer;
+  transition: all var(--transition);
+
+  @include hover {
+    color: var(--color-white);
+    background: var(--color-black-12);
+  }
+
+  &Active {
+    color: var(--color-white);
+    border-color: var(--color-black-25);
+    background: var(--color-black-10);
+  }
+}
+
+// Content layout
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.contentSplit {
+  flex-direction: row;
+  gap: 2rem;
+
+  @include mobile {
+    flex-direction: column;
+  }
+}
+
+// Weapon list
+.list {
+  display: flex;
+  flex-direction: column;
+
+  .contentSplit & {
+    flex: 0 0 40%;
+
+    @include mobile {
+      flex: none;
+      width: 100%;
+    }
+  }
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem 1rem;
+  border-bottom: 1px solid var(--color-black-12);
+  cursor: pointer;
+  transition: background var(--transition);
+
+  @include hover {
+    background: var(--color-black-06);
+  }
+
+  &:first-child {
+    border-top: 1px solid var(--color-black-12);
+  }
+}
+
+.itemActive {
+  background: var(--color-black-08);
+  border-left: 2px solid var(--color-primary);
+  padding-left: calc(1rem - 2px);
+}
+
+.itemMelee {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+// Mobile accordion
+.itemDetailMobile {
+  display: none;
+
+  @include mobile {
+    display: block;
+    padding: 1rem;
+    background: var(--color-black-08);
+    border-bottom: 1px solid var(--color-black-12);
+  }
+}
+
+.itemInfo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.itemImg {
+  width: 48px;
+  height: 28px;
+  object-fit: contain;
+  flex-shrink: 0;
+  border-radius: var(--radius-xs);
+  background: var(--color-black-05);
+  padding: 2px;
+}
+
+.itemName {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-white);
+}
+
+.itemDesc {
+  font-size: 0.875rem;
+  color: var(--color-gray-60);
+}
+
+.itemRight {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.badgeTag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.625rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: var(--radius-xxxs);
+  border: 1px solid;
+
+  &AR {
+    color: #00d4aa;
+    border-color: rgba(0, 212, 170, 0.3);
+    background: rgba(0, 212, 170, 0.1);
+  }
+
+  &SMG {
+    color: #9966ff;
+    border-color: rgba(153, 102, 255, 0.3);
+    background: rgba(153, 102, 255, 0.1);
+  }
+
+  &LMG {
+    color: #ff9933;
+    border-color: rgba(255, 153, 51, 0.3);
+    background: rgba(255, 153, 51, 0.1);
+  }
+
+  &DMR {
+    color: #3399ff;
+    border-color: rgba(51, 153, 255, 0.3);
+    background: rgba(51, 153, 255, 0.1);
+  }
+
+  &Sniper {
+    color: #33cc66;
+    border-color: rgba(51, 204, 102, 0.3);
+    background: rgba(51, 204, 102, 0.1);
+  }
+
+  &Shotgun {
+    color: #ffcc00;
+    border-color: rgba(255, 204, 0, 0.3);
+    background: rgba(255, 204, 0, 0.1);
+  }
+
+  &Carbine {
+    color: #00b4d8;
+    border-color: rgba(0, 180, 216, 0.3);
+    background: rgba(0, 180, 216, 0.1);
+  }
+
+  &Pistol {
+    color: #e0aaff;
+    border-color: rgba(224, 170, 255, 0.3);
+    background: rgba(224, 170, 255, 0.1);
+  }
+
+  &Melee {
+    color: #ff6b6b;
+    border-color: rgba(255, 107, 107, 0.3);
+    background: rgba(255, 107, 107, 0.1);
+  }
+}
+
+.chevron {
+  color: var(--color-gray-60);
+  transition: transform var(--transition);
+}
+
+.chevronUp {
+  transform: rotate(-90deg);
+}
+
+// Detail panel
+.detail {
+  flex: 1;
+  min-width: 0;
+  position: sticky;
+  top: 4.5rem;
+  max-height: calc(100vh - 5rem);
+  overflow-y: auto;
+
+  @include mobile {
+    position: static;
+    width: 100%;
+    max-height: none;
+    overflow-y: visible;
+  }
+}
+
+.detailInner {
+  background: var(--color-black-08);
+  border: 1px solid var(--color-black-12);
+  border-radius: var(--radius-m);
+  padding: 1rem;
+}
+
+.detailTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.closeBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: transparent;
+  border: 1px solid var(--color-black-15);
+  border-radius: var(--radius-s);
+  color: var(--color-gray-60);
+  cursor: pointer;
+  transition: all var(--transition);
+
+  @include hover {
+    color: var(--color-white);
+    border-color: var(--color-black-25);
+  }
+}
+
+.weaponImage {
+  margin-bottom: 0.75rem;
+  border-radius: var(--radius-m);
+  overflow: hidden;
+  background: var(--color-black-05);
+  max-height: 80px;
+
+  img {
+    width: 100%;
+    height: 80px;
+    display: block;
+    object-fit: contain;
+  }
+}
+
+.typeBadge {
+  display: inline-block;
+  padding: 0.25rem 0.625rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: var(--radius-xxxs);
+  border: 1px solid;
+  margin-bottom: 0.75rem;
+
+  &AR {
+    color: #00d4aa;
+    border-color: rgba(0, 212, 170, 0.3);
+    background: rgba(0, 212, 170, 0.1);
+  }
+
+  &SMG {
+    color: #9966ff;
+    border-color: rgba(153, 102, 255, 0.3);
+    background: rgba(153, 102, 255, 0.1);
+  }
+
+  &LMG {
+    color: #ff9933;
+    border-color: rgba(255, 153, 51, 0.3);
+    background: rgba(255, 153, 51, 0.1);
+  }
+
+  &DMR {
+    color: #3399ff;
+    border-color: rgba(51, 153, 255, 0.3);
+    background: rgba(51, 153, 255, 0.1);
+  }
+
+  &Sniper {
+    color: #33cc66;
+    border-color: rgba(51, 204, 102, 0.3);
+    background: rgba(51, 204, 102, 0.1);
+  }
+
+  &Shotgun {
+    color: #ffcc00;
+    border-color: rgba(255, 204, 0, 0.3);
+    background: rgba(255, 204, 0, 0.1);
+  }
+
+  &Carbine {
+    color: #00b4d8;
+    border-color: rgba(0, 180, 216, 0.3);
+    background: rgba(0, 180, 216, 0.1);
+  }
+
+  &Pistol {
+    color: #e0aaff;
+    border-color: rgba(224, 170, 255, 0.3);
+    background: rgba(224, 170, 255, 0.1);
+  }
+
+  &Melee {
+    color: #ff6b6b;
+    border-color: rgba(255, 107, 107, 0.3);
+    background: rgba(255, 107, 107, 0.1);
+  }
+}
+
+.detailName {
+  font-size: clamp(1.75rem, 3vw, 2.5rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 1;
+  color: var(--color-white);
+  margin-bottom: 0.25rem;
+}
+
+.detailDesc {
+  font-size: 0.9375rem;
+  color: var(--color-gray-60);
+}
+
+// Stats grid
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-black-12);
+
+  @include mobile {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.statItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.statLabel {
+  font-size: 0.75rem;
+  color: var(--color-gray-60);
+  text-transform: uppercase;
+}
+
+.statValue {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--color-white);
+}
+
+// Mode tabs
+.modeTabs {
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--color-black-12);
+}
+
+.modeTabsMain {
+  display: flex;
+  gap: 0.25rem;
+  margin-bottom: 0.5rem;
+
+  @include mobile {
+    flex-wrap: wrap;
+  }
+}
+
+.modeTab {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--radius-s);
+  color: var(--color-gray-60);
+  cursor: pointer;
+  transition: all var(--transition);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+
+  @include hover {
+    color: var(--color-white);
+    background: var(--color-black-12);
+  }
+}
+
+.modeTabActive {
+  color: var(--color-primary);
+  border-color: rgba(0, 212, 170, 0.3);
+  background: rgba(0, 212, 170, 0.08);
+}
+
+.modeTabsSub {
+  display: flex;
+  gap: 0.25rem;
+  padding-left: 0.5rem;
+}
+
+.modeTabSub {
+  padding: 0.375rem 0.75rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--radius-xs);
+  color: var(--color-gray-60);
+  cursor: pointer;
+  transition: all var(--transition);
+
+  @include hover {
+    color: var(--color-white);
+    background: var(--color-black-12);
+  }
+}
+
+.modeTabSubActive {
+  color: var(--color-white);
+  border-color: var(--color-black-20);
+  background: var(--color-black-10);
+}
+
+// Rank
+.rankSection {
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--color-black-12);
+}
+
+.rankHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.rankLabel {
+  font-size: 0.875rem;
+  color: var(--color-gray-60);
+  margin-bottom: 0.25rem;
+}
+
+.rankValue {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: var(--color-primary);
+  line-height: 1;
+}
+
+.rankStats {
+  text-align: right;
+}
+
+.rankCount {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-white);
+}
+
+.rankCountNum {
+  color: var(--color-primary);
+}
+
+// Slider
+.sliderWrap {
+  position: relative;
+}
+
+.slider {
+  width: 100%;
+  height: 4px;
+  appearance: none;
+  background: var(--color-black-15);
+  border-radius: 2px;
+  outline: none;
+  margin-bottom: 0.75rem;
+
+  &::-webkit-slider-thumb {
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    background: var(--color-primary);
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid var(--color-bg);
+    box-shadow: 0 0 0 2px var(--color-primary);
+  }
+
+  &::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    background: var(--color-primary);
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid var(--color-bg);
+    box-shadow: 0 0 0 2px var(--color-primary);
+  }
+}
+
+.sliderTicks {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8125rem;
+  color: var(--color-gray-60);
+}
+
+// Weight bar
+.weightBar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-black-12);
+}
+
+.weightSquares {
+  display: flex;
+  gap: 4px;
+}
+
+.weightSquare {
+  width: 16px;
+  height: 16px;
+  background: var(--color-black-15);
+  border: 1px solid var(--color-black-20);
+  border-radius: 2px;
+  transition: all var(--transition);
+}
+
+.weightSquareFilled {
+  background: var(--color-gray-60);
+  border-color: var(--color-gray-60);
+}
+
+.weightSquareMax {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.weightText {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-gray-60);
+  font-variant-numeric: tabular-nums;
+}
+
+.weightTextMax {
+  color: var(--color-primary);
+}
+
+// No data message
+.noDataMessage {
+  padding: 2rem;
+  text-align: center;
+  background: var(--color-black-08);
+  border: 1px solid var(--color-black-12);
+  border-radius: var(--radius-m);
+  margin-bottom: 1.5rem;
+
+  p {
+    color: var(--color-gray-60);
+    font-size: 0.9375rem;
+    margin: 0;
+
+    &:first-child {
+      margin-bottom: 0.5rem;
+      color: var(--color-white);
+      font-weight: 600;
+    }
+  }
+}
+
+// Attachments
+.attachments {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.attachSlot {
+  display: flex;
+  flex-direction: column;
+}
+
+.attachSlotTitle {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--color-black-12);
+}
+
+.attachSlotLabel {
+  width: 100px;
+  flex-shrink: 0;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--color-gray-60);
+  text-transform: capitalize;
+
+  @include mobile {
+    width: auto;
+  }
+}
+
+.attachRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.625rem 0.75rem;
+  background: var(--color-black-08);
+  border: 1px solid var(--color-black-12);
+  border-radius: var(--radius-s);
+  transition: all 0.3s ease;
+
+  @include mobile {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+}
+
+.attachRowChanged {
+  animation: attachHighlight 0.8s ease-out;
+}
+
+@keyframes attachHighlight {
+  0% {
+    background: rgba(0, 212, 170, 0.3);
+    border-color: var(--color-primary);
+    transform: scale(1.02);
+    box-shadow: 0 0 12px rgba(0, 212, 170, 0.4);
+  }
+  100% {
+    background: var(--color-black-08);
+    border-color: var(--color-black-12);
+    transform: scale(1);
+    box-shadow: none;
+  }
+}
+
+.attachRowNew {
+  animation: attachNew 0.8s ease-out;
+}
+
+@keyframes attachNew {
+  0% {
+    background: rgba(0, 212, 170, 0.4);
+    border-color: var(--color-primary);
+    transform: scale(1.03);
+    box-shadow: 0 0 16px rgba(0, 212, 170, 0.5);
+  }
+  50% {
+    background: rgba(0, 212, 170, 0.2);
+    transform: scale(1.01);
+  }
+  100% {
+    background: var(--color-black-08);
+    border-color: var(--color-black-12);
+    transform: scale(1);
+    box-shadow: none;
+  }
+}
+
+.attachRowRemoved {
+  animation: attachRemoved 0.6s ease-out;
+}
+
+@keyframes attachRemoved {
+  0% {
+    background: rgba(255, 107, 107, 0.3);
+    border-color: #ff6b6b;
+    transform: scale(0.98);
+  }
+  100% {
+    background: var(--color-black-08);
+    border-color: var(--color-black-12);
+    transform: scale(1);
+  }
+}
+
+.attachRowLocked {
+  opacity: 0.4;
+}
+
+.attachLeft {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.attachName {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--color-white);
+  text-transform: uppercase;
+}
+
+.attachSlotInfo {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+  font-size: 0.75rem;
+  color: var(--color-gray-60);
+  text-transform: uppercase;
+}
+
+.attachWeightIcon {
+  color: var(--color-primary);
+}
+
+.attachLevel {
+  font-size: 0.8125rem;
+  color: var(--color-gray-60);
+  white-space: nowrap;
+}
+
+.lockIcon {
+  color: var(--color-gray-60);
+  flex-shrink: 0;
+}
+
+// Footer
+.footer {
+  padding: 1.5rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8125rem;
+  color: var(--color-gray-60);
+  border-top: 1px solid var(--color-black-12);
+
+  @include mobile {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+}

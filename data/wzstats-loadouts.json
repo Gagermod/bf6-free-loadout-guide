@@ -1,0 +1,5907 @@
+{
+  "kord-6p67": {
+    "Best KORD 6P67 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "415MM PROTOTYPE",
+        "weight": 10,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 8
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 38
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 40
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 13
+      },
+      "Scope": {
+        "name": "BAKER 3.00X",
+        "weight": 10,
+        "level": 8
+      }
+    },
+    "Best KORD 6P67 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "415MM PROTOTYPE",
+        "weight": 10,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 8
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 38
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 40
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 13
+      },
+      "Scope": {
+        "name": "BAKER 3.00X",
+        "weight": 10,
+        "level": 8
+      }
+    },
+    "Best KORD 6P67 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "415MM PROTOTYPE",
+        "weight": 10,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 23
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 38
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 40
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 13
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 16
+      }
+    },
+    "Best KORD 6P67 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "415MM PROTOTYPE",
+        "weight": 10,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 16
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 32
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 13
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 16
+      }
+    }
+  },
+  "m16a4": {
+    "Best M16A4 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "20\" HBAR",
+        "weight": 10,
+        "level": 25
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 36
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "30RND FAST MAG",
+        "weight": 10,
+        "level": 11
+      },
+      "Scope": {
+        "name": "BAKER 3.00X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M16A4 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "20\" HBAR",
+        "weight": 10,
+        "level": 25
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 13
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 31
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 39
+      },
+      "Ergonomics": {
+        "name": "RAIL COVER",
+        "weight": 5,
+        "level": 11
+      },
+      "Scope": {
+        "name": "BAKER 3.00X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M16A4 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" HBAR",
+        "weight": 10,
+        "level": 25
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 7
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Ergonomics": {
+        "name": "A3 RECIEVER",
+        "weight": 25,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 22
+      }
+    },
+    "Best M16A4 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" HBAR",
+        "weight": 10,
+        "level": 25
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 7
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Ergonomics": {
+        "name": "A3 RECIEVER",
+        "weight": 25,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 10
+      }
+    }
+  },
+  "l85a3": {
+    "Best L85A3 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "646MM LSW",
+        "weight": 10,
+        "level": 30
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 12
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 25
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 32
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 12
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 18
+      }
+    },
+    "Best L85A3 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "646MM LSW",
+        "weight": 10,
+        "level": 30
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 12
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 25
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 32
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 12
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 18
+      }
+    },
+    "Best L85A3 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "646MM LSW",
+        "weight": 10,
+        "level": 30
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 29
+      },
+      "Ammunition": {
+        "name": "SYNTHETIC TIP",
+        "weight": 20,
+        "level": 30
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 32
+      },
+      "Magazine": {
+        "name": "30 RND",
+        "weight": 5,
+        "level": 18
+      }
+    },
+    "Best L85A3 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "646MM FLUTED",
+        "weight": 5,
+        "level": 10
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 26
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 12
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 18
+      }
+    }
+  },
+  "b36a4": {
+    "Best B36A4 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "510MM DMR",
+        "weight": 10,
+        "level": 26
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 8
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 37
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 35
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 18
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 16
+      }
+    },
+    "Best B36A4 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "510MM DMR",
+        "weight": 10,
+        "level": 26
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 8
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 37
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 35
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 18
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 16
+      }
+    },
+    "Best B36A4 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "510MM DMR",
+        "weight": 10,
+        "level": 26
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 13
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 35
+      },
+      "Ergonomics": {
+        "name": "AFTERMARKET BUFFER",
+        "weight": 5,
+        "level": 2
+      }
+    },
+    "Best B36A4 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "510MM DMR",
+        "weight": 10,
+        "level": 26
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 13
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 35
+      },
+      "Ergonomics": {
+        "name": "AFTERMARKET BUFFER",
+        "weight": 5,
+        "level": 2
+      }
+    }
+  },
+  "sor-556-mk2": {
+    "Best SOR 556-MK2 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "18\" CUSTOM",
+        "weight": 10,
+        "level": 28
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 8
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 12
+      },
+      "Ergonomics": {
+        "name": "RAIL COVER",
+        "weight": 5,
+        "level": 15
+      }
+    },
+    "Best SOR 556-MK2 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "18\" CUSTOM",
+        "weight": 10,
+        "level": 28
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 8
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 12
+      },
+      "Ergonomics": {
+        "name": "RAIL COVER",
+        "weight": 5,
+        "level": 15
+      }
+    },
+    "Best SOR 556-MK2 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "18\" US-LB",
+        "weight": 5,
+        "level": 9
+      },
+      "Underbarrel": {
+        "name": "STIPPLED STUBBY",
+        "weight": 35,
+        "level": 23
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 15,
+        "level": 10
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "30 RND",
+        "weight": 5,
+        "level": 24
+      }
+    },
+    "Best SOR 556-MK2 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "18\" US-LB",
+        "weight": 5,
+        "level": 9
+      },
+      "Underbarrel": {
+        "name": "STIPPLED STUBBY",
+        "weight": 35,
+        "level": 23
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 15,
+        "level": 10
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "30 RND",
+        "weight": 5,
+        "level": 24
+      }
+    }
+  },
+  "vcr-2": {
+    "Best VCR 2 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "20\" MARKSMAN",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 29
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 35
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 1
+      }
+    },
+    "Best VCR 2 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "20\" MARKSMAN",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 29
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 35
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 1
+      }
+    },
+    "Best VCR 2 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" MARKSMAN",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 1
+      }
+    },
+    "Best VCR 2 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" MARKSMAN",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 1
+      }
+    }
+  },
+  "nvo-228e": {
+    "Best NVO 228E Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "458MM CUSTOM",
+        "weight": 5,
+        "level": 10
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 21
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 25
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 27
+      }
+    },
+    "Best NVO 228E Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "458MM CUSTOM",
+        "weight": 5,
+        "level": 10
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 21
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 25
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 27
+      }
+    },
+    "Best NVO 228E Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "458MM CUSTOM",
+        "weight": 5,
+        "level": 10
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 34
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 20
+      },
+      "Muzzle": {
+        "name": "FLASH COMP",
+        "weight": 20,
+        "level": 27
+      }
+    },
+    "Best NVO 228E Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "458MM CUSTOM",
+        "weight": 5,
+        "level": 10
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 34
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 20
+      },
+      "Muzzle": {
+        "name": "FLASH COMP",
+        "weight": 20,
+        "level": 27
+      }
+    }
+  },
+  "m433": {
+    "Best M433 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "18.9\" PROTOTYPE",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 35
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 31
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 21
+      }
+    },
+    "Best M433 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "18.9\" PROTOTYPE",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 35
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 31
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 21
+      }
+    },
+    "Best M433 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "18.9\" PROTOTYPE",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 30
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 31
+      },
+      "Scope": {
+        "name": "RO-S 1.25X",
+        "weight": 10,
+        "level": 29
+      }
+    },
+    "Best M433 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "18.9\" PROTOTYPE",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 30
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 31
+      },
+      "Scope": {
+        "name": "RO-S 1.25X",
+        "weight": 10,
+        "level": 29
+      }
+    }
+  },
+  "ak4d": {
+    "Best AK4D Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "600MM DMR",
+        "weight": 10,
+        "level": 40
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 7
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "20 FAST",
+        "weight": 10,
+        "level": 15
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 18
+      }
+    },
+    "Best AK4D Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "600MM DMR",
+        "weight": 10,
+        "level": 40
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 7
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "20 FAST",
+        "weight": 10,
+        "level": 15
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 18
+      }
+    },
+    "Best AK4D Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "600MM FLUTED",
+        "weight": 5,
+        "level": 9
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 21
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "20 RND",
+        "weight": 5,
+        "level": 18
+      }
+    },
+    "Best AK4D Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "600MM FLUTED",
+        "weight": 5,
+        "level": 9
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 21
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "20 RND",
+        "weight": 5,
+        "level": 18
+      }
+    }
+  },
+  "tr-7": {
+    "Best TR 7 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "20\" LONG",
+        "weight": 5,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 9
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 34
+      },
+      "Magazine": {
+        "name": "25 RND",
+        "weight": 20,
+        "level": 26
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 23
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 2
+      }
+    },
+    "Best TR 7 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "20\" LONG",
+        "weight": 5,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 9
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 34
+      },
+      "Magazine": {
+        "name": "25 RND",
+        "weight": 20,
+        "level": 26
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 23
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 2
+      }
+    },
+    "Best TR 7 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "17\" FACTORY",
+        "weight": 10,
+        "level": 19
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 34
+      },
+      "Magazine": {
+        "name": "20 FAST",
+        "weight": 10,
+        "level": 10
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 2
+      }
+    },
+    "Best TR 7 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" LONG",
+        "weight": 5,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 24
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 32
+      },
+      "Muzzle": {
+        "name": "FLASH COMP",
+        "weight": 20,
+        "level": 23
+      },
+      "Magazine": {
+        "name": "20 RND",
+        "weight": 5,
+        "level": 21
+      }
+    }
+  },
+  "m417-a2": {
+    "Best M417 A2 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "16.5\" RIFLE",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 14
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 32
+      },
+      "Magazine": {
+        "name": "25RND MAGAZINE",
+        "weight": 15,
+        "level": 29
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M417 A2 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "16.5\" RIFLE",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 14
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 32
+      },
+      "Magazine": {
+        "name": "25RND MAGAZINE",
+        "weight": 15,
+        "level": 29
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M417 A2 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "16.5\" RIFLE",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 1
+      },
+      "Magazine": {
+        "name": "25RND MAGAZINE",
+        "weight": 15,
+        "level": 29
+      },
+      "Top Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M417 A2 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "16.5\" RIFLE",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 1
+      },
+      "Magazine": {
+        "name": "25RND MAGAZINE",
+        "weight": 15,
+        "level": 29
+      },
+      "Top Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 3
+      }
+    }
+  },
+  "m277": {
+    "Best M277 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "16\" CUSTOM",
+        "weight": 10,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 15
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 25
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M277 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "16\" CUSTOM",
+        "weight": 10,
+        "level": 7
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 15
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 25
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M277 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "16\" RIFLE",
+        "weight": 5,
+        "level": 18
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 17
+      },
+      "Magazine": {
+        "name": "25 RND",
+        "weight": 20,
+        "level": 25
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 4
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M277 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "16\" RIFLE",
+        "weight": 5,
+        "level": 18
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 17
+      },
+      "Magazine": {
+        "name": "25 RND",
+        "weight": 20,
+        "level": 25
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 4
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    }
+  },
+  "pp-19": {
+    "Best PP 19 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "367MM CIV",
+        "weight": 5,
+        "level": 4
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 35
+      },
+      "Magazine": {
+        "name": "53RND DRUM",
+        "weight": 45,
+        "level": 16
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 14
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 2
+      }
+    },
+    "Best PP 19 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "367MM CIV",
+        "weight": 5,
+        "level": 4
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 35
+      },
+      "Magazine": {
+        "name": "53RND DRUM",
+        "weight": 45,
+        "level": 16
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 14
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 2
+      }
+    },
+    "Best PP 19 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "367MM CIV",
+        "weight": 5,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 12
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 35
+      },
+      "Ergonomics": {
+        "name": "AFTERMARKET BUFFER",
+        "weight": 5,
+        "level": 28
+      },
+      "Right Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 40
+      },
+      "Magazine": {
+        "name": "30RND FAST MAG",
+        "weight": 10,
+        "level": 32
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 2
+      }
+    },
+    "Best PP 19 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "367MM CIV",
+        "weight": 5,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 12
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 35
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 14
+      },
+      "Right Accessory": {
+        "name": "50 MW BLUE",
+        "weight": 20,
+        "level": 27
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 2
+      }
+    }
+  },
+  "sgx": {
+    "Best SGX Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "8\" EXTENDED",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 35
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 14
+      },
+      "Magazine": {
+        "name": "41RND MAGAZINE",
+        "weight": 25,
+        "level": 32
+      },
+      "Top Accessory": {
+        "name": "50 MW BLUE",
+        "weight": 20,
+        "level": 27
+      }
+    },
+    "Best SGX Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "8\" EXTENDED",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 35
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 14
+      },
+      "Magazine": {
+        "name": "41RND MAGAZINE",
+        "weight": 25,
+        "level": 32
+      },
+      "Top Accessory": {
+        "name": "50 MW BLUE",
+        "weight": 20,
+        "level": 27
+      }
+    },
+    "Best SGX Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "8\" EXTENDED",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 24
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 10
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 15
+      }
+    },
+    "Best SGX Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "8\" EXTENDED",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 27
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 10
+      },
+      "Scope": {
+        "name": "RO-S 1.25X",
+        "weight": 10,
+        "level": 10
+      }
+    }
+  },
+  "pw5a3": {
+    "Best PW5A3 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "245MM CUSTOM",
+        "weight": 5,
+        "level": 12
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 9
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 28
+      },
+      "Right Accessory": {
+        "name": "50 MW BLUE",
+        "weight": 20,
+        "level": 27
+      }
+    },
+    "Best PW5A3 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "245MM CUSTOM",
+        "weight": 5,
+        "level": 12
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 9
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 28
+      },
+      "Right Accessory": {
+        "name": "50 MW BLUE",
+        "weight": 20,
+        "level": 27
+      }
+    },
+    "Best PW5A3 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "245MM CUSTOM",
+        "weight": 5,
+        "level": 12
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 21
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 9
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 28
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 12
+      }
+    },
+    "Best PW5A3 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "245MM CUSTOM",
+        "weight": 5,
+        "level": 12
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 28
+      },
+      "Right Accessory": {
+        "name": "50 MW BLUE",
+        "weight": 20,
+        "level": 27
+      }
+    }
+  },
+  "pw7a2": {
+    "Best PW7A2 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "180MM STANDARD",
+        "weight": 10,
+        "level": 23
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 34
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 22
+      },
+      "Right Accessory": {
+        "name": "120 MW BLUE",
+        "weight": 30,
+        "level": 35
+      }
+    },
+    "Best PW7A2 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "180MM STANDARD",
+        "weight": 10,
+        "level": 23
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 34
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 22
+      },
+      "Right Accessory": {
+        "name": "120 MW BLUE",
+        "weight": 30,
+        "level": 35
+      }
+    },
+    "Best PW7A2 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "180MM PROTOTYPE",
+        "weight": 10,
+        "level": 14
+      },
+      "Underbarrel": {
+        "name": "ALLOY VERTICAL",
+        "weight": 20,
+        "level": 7
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 34
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 1
+      }
+    },
+    "Best PW7A2 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "180MM PROTOTYPE",
+        "weight": 10,
+        "level": 14
+      },
+      "Underbarrel": {
+        "name": "ALLOY VERTICAL",
+        "weight": 20,
+        "level": 7
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 34
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 1
+      }
+    }
+  },
+  "scw-10": {
+    "Best SCW 10 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED BARREL",
+        "weight": 5,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 26
+      },
+      "Magazine": {
+        "name": "25RND MAGAZINE",
+        "weight": 45,
+        "level": 27
+      },
+      "Top Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 18
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 5
+      }
+    },
+    "Best SCW 10 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED BARREL",
+        "weight": 5,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 26
+      },
+      "Magazine": {
+        "name": "25RND MAGAZINE",
+        "weight": 45,
+        "level": 27
+      },
+      "Top Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 18
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 5
+      }
+    },
+    "Best SCW 10 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED BARREL",
+        "weight": 5,
+        "level": 1
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 34
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 20,
+        "level": 22
+      },
+      "Top Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 18
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 5
+      }
+    },
+    "Best SCW 10 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED BARREL",
+        "weight": 5,
+        "level": 1
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 7
+      },
+      "Magazine": {
+        "name": "25RND MAGAZINE",
+        "weight": 45,
+        "level": 27
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 21
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 5
+      }
+    }
+  },
+  "cz3a1": {
+    "Best CZ3A1 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "16.2\" CUT",
+        "weight": 5,
+        "level": 24
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 40
+      },
+      "Magazine": {
+        "name": "35RND MAGAZINE",
+        "weight": 15,
+        "level": 36
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 15
+      }
+    },
+    "Best CZ3A1 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "16.2\" CUT",
+        "weight": 5,
+        "level": 24
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 40
+      },
+      "Magazine": {
+        "name": "35RND MAGAZINE",
+        "weight": 15,
+        "level": 36
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 15
+      }
+    },
+    "Best CZ3A1 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "16.2\" CUT",
+        "weight": 5,
+        "level": 24
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 40
+      },
+      "Magazine": {
+        "name": "35RND MAGAZINE",
+        "weight": 15,
+        "level": 36
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 15
+      }
+    },
+    "Best CZ3A1 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "16.2\" CUT",
+        "weight": 5,
+        "level": 24
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 40
+      },
+      "Magazine": {
+        "name": "35RND MAGAZINE",
+        "weight": 15,
+        "level": 36
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 15
+      }
+    }
+  },
+  "sl9": {
+    "Best SL9 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "9\" FACTORY",
+        "weight": 10,
+        "level": 7
+      },
+      "Magazine": {
+        "name": "60RND MAGAZINE",
+        "weight": 55,
+        "level": 30
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 5
+      }
+    },
+    "Best SL9 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "9\" FACTORY",
+        "weight": 10,
+        "level": 7
+      },
+      "Magazine": {
+        "name": "60RND MAGAZINE",
+        "weight": 55,
+        "level": 30
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 5
+      }
+    },
+    "Best SL9 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "11\" EXTENTED",
+        "weight": 5,
+        "level": 20
+      },
+      "Underbarrel": {
+        "name": "FACTORY ANGLED",
+        "weight": 20,
+        "level": 36
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 37
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 29
+      }
+    },
+    "Best SL9 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "11\" EXTENTED",
+        "weight": 5,
+        "level": 20
+      },
+      "Underbarrel": {
+        "name": "FACTORY ANGLED",
+        "weight": 20,
+        "level": 36
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 37
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 29
+      }
+    }
+  },
+  "kv9": {
+    "Best KV9 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "6.5\" EXTENDED",
+        "weight": 5,
+        "level": 10
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 28
+      },
+      "Magazine": {
+        "name": "27RND MAGAZINE",
+        "weight": 45,
+        "level": 40
+      },
+      "Top Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 21
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 18
+      }
+    },
+    "Best KV9 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "6.5\" EXTENDED",
+        "weight": 5,
+        "level": 10
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 28
+      },
+      "Magazine": {
+        "name": "27RND MAGAZINE",
+        "weight": 45,
+        "level": 40
+      },
+      "Top Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 21
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 18
+      }
+    },
+    "Best KV9 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "6.5\" EXTENDED",
+        "weight": 5,
+        "level": 10
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 16
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 34
+      },
+      "Magazine": {
+        "name": "23RND MAGAZINE",
+        "weight": 25,
+        "level": 26
+      },
+      "Scope": {
+        "name": "RO-S 1.25X",
+        "weight": 10,
+        "level": 28
+      }
+    },
+    "Best KV9 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "6.5\" EXTENDED",
+        "weight": 5,
+        "level": 10
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 16
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 34
+      },
+      "Magazine": {
+        "name": "23RND MAGAZINE",
+        "weight": 25,
+        "level": 26
+      },
+      "Scope": {
+        "name": "RO-S 1.25X",
+        "weight": 10,
+        "level": 28
+      }
+    }
+  },
+  "usg-90": {
+    "Best USG 90 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "264MM FLUTED",
+        "weight": 20,
+        "level": 34
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 17
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 13
+      },
+      "Magazine": {
+        "name": "50 RND MAGAZINE",
+        "weight": 5,
+        "level": 25
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 19
+      }
+    },
+    "Best USG 90 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "264MM FLUTED",
+        "weight": 20,
+        "level": 34
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 17
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 13
+      },
+      "Magazine": {
+        "name": "50 RND MAGAZINE",
+        "weight": 5,
+        "level": 25
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 19
+      }
+    },
+    "Best USG 90 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "407MM CIV-S",
+        "weight": 10,
+        "level": 15
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Right Accessory": {
+        "name": "FLASHLIGHT",
+        "weight": 10,
+        "level": 23
+      },
+      "Magazine": {
+        "name": "50 RND MAGAZINE",
+        "weight": 5,
+        "level": 36
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 19
+      }
+    },
+    "Best USG 90 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "407MM CIV-S",
+        "weight": 10,
+        "level": 15
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Right Accessory": {
+        "name": "FLASHLIGHT",
+        "weight": 10,
+        "level": 23
+      },
+      "Magazine": {
+        "name": "50 RND MAGAZINE",
+        "weight": 5,
+        "level": 36
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 19
+      }
+    }
+  },
+  "umg-40": {
+    "Best UMG 40 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "305MM CUSTOM",
+        "weight": 5,
+        "level": 26
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 17
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 24
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 35
+      },
+      "Right Accessory": {
+        "name": "50 MW BLUE",
+        "weight": 20,
+        "level": 31
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 1
+      }
+    },
+    "Best UMG 40 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "305MM CUSTOM",
+        "weight": 5,
+        "level": 26
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 17
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 24
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 35
+      },
+      "Right Accessory": {
+        "name": "50 MW BLUE",
+        "weight": 20,
+        "level": 31
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 1
+      }
+    },
+    "Best UMG 40 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "305MM CUSTOM",
+        "weight": 5,
+        "level": 26
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 17
+      },
+      "Ammunition": {
+        "name": "SYNTHETIC TIP",
+        "weight": 25,
+        "level": 39
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 14
+      }
+    },
+    "Best UMG 40 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "305MM CUSTOM",
+        "weight": 5,
+        "level": 26
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 20,
+        "level": 17
+      },
+      "Ammunition": {
+        "name": "SYNTHETIC TIP",
+        "weight": 25,
+        "level": 39
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 14
+      }
+    }
+  },
+  "sg-553r": {
+    "Best SG 553R Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "303MM LB",
+        "weight": 5,
+        "level": 2
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 31
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 29
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 35
+      }
+    },
+    "Best SG 553R Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "303MM LB",
+        "weight": 5,
+        "level": 2
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 31
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 29
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 35
+      }
+    },
+    "Best SG 553R Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "303MM LB",
+        "weight": 5,
+        "level": 2
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 40
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 34
+      }
+    },
+    "Best SG 553R Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "303MM LB",
+        "weight": 5,
+        "level": 2
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 40
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "30RND MAGAZINE",
+        "weight": 5,
+        "level": 34
+      }
+    }
+  },
+  "ak-205": {
+    "Best AK 205 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "314MM FLUTED",
+        "weight": 20,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "45RND MAGAZINE",
+        "weight": 35,
+        "level": 25
+      }
+    },
+    "Best AK 205 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "314MM FLUTED",
+        "weight": 20,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "45RND MAGAZINE",
+        "weight": 35,
+        "level": 25
+      }
+    },
+    "Best AK 205 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "314MM FACTORY",
+        "weight": 10,
+        "level": 39
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 17
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 2
+      }
+    },
+    "Best AK 205 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "314MM FACTORY",
+        "weight": 10,
+        "level": 39
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 25,
+        "level": 17
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 2
+      }
+    }
+  },
+  "m4a1": {
+    "Best M4A1 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "14.5\" CARBINE",
+        "weight": 5,
+        "level": 13
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 15
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 31
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 4
+      }
+    },
+    "Best M4A1 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "14.5\" CARBINE",
+        "weight": 5,
+        "level": 13
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 15
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 31
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 4
+      }
+    },
+    "Best M4A1 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "14.5\" CARBINE",
+        "weight": 5,
+        "level": 13
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "30 RND",
+        "weight": 5,
+        "level": 2
+      }
+    },
+    "Best M4A1 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "14.5\" CARBINE",
+        "weight": 5,
+        "level": 13
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 31
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 4
+      }
+    }
+  },
+  "qbz-192": {
+    "Best QBZ 192 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "14.5\" COMMON",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 17
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 2
+      }
+    },
+    "Best QBZ 192 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "14.5\" COMMON",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 17
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 2
+      }
+    },
+    "Best QBZ 192 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "14.5\" COMMON",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 17
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 3
+      }
+    },
+    "Best QBZ 192 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "14.5\" COMMON",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 14
+      },
+      "Muzzle": {
+        "name": "LINEAR COMP",
+        "weight": 10,
+        "level": 2
+      },
+      "Ergonomics": {
+        "name": "RAIL COVER",
+        "weight": 5,
+        "level": 3
+      }
+    }
+  },
+  "sor-300sc": {
+    "Best SOR 300SC Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "10.5\" CUSTOM",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 33
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 28
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best SOR 300SC Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "10.5\" CUSTOM",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 33
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 28
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best SOR 300SC Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "10.5\" CUSTOM",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "RIBBED STUBBY",
+        "weight": 30,
+        "level": 24
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 22
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 28
+      },
+      "Ergonomics": {
+        "name": "RAIL COVER",
+        "weight": 5,
+        "level": 3
+      }
+    },
+    "Best SOR 300SC Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "10.5\" CUSTOM",
+        "weight": 5,
+        "level": 5
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 33
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 28
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 3
+      }
+    }
+  },
+  "grt-bc": {
+    "Best GRT BC Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "14.5\" ALT",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 17
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 28
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 15
+      },
+      "Scope": {
+        "name": "GRIM 1.50X",
+        "weight": 25,
+        "level": 27
+      }
+    },
+    "Best GRT BC Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "14.5\" ALT",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 17
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 28
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 15
+      },
+      "Scope": {
+        "name": "GRIM 1.50X",
+        "weight": 25,
+        "level": 27
+      }
+    },
+    "Best GRT BC Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "10\" FACTORY",
+        "weight": 20,
+        "level": 21
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 7
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 15
+      },
+      "Right Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 31
+      }
+    },
+    "Best GRT BC Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "10\" FACTORY",
+        "weight": 20,
+        "level": 21
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 7
+      },
+      "Magazine": {
+        "name": "36RND MAGAZINE",
+        "weight": 15,
+        "level": 15
+      },
+      "Right Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 31
+      }
+    }
+  },
+  "drs-iar": {
+    "Best DRS IAR Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "20\" SDM-R",
+        "weight": 10,
+        "level": 14
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 13
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 15
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 12
+      },
+      "Scope": {
+        "name": "BAKER 3.00X",
+        "weight": 10,
+        "level": 17
+      }
+    },
+    "Best DRS IAR Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "20\" SDM-R",
+        "weight": 10,
+        "level": 14
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 13
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 15
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 12
+      },
+      "Scope": {
+        "name": "BAKER 3.00X",
+        "weight": 10,
+        "level": 17
+      }
+    },
+    "Best DRS IAR Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" SDM-R",
+        "weight": 10,
+        "level": 14
+      },
+      "Underbarrel": {
+        "name": "STIPPLED STUBBY",
+        "weight": 35,
+        "level": 36
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 24
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 12
+      },
+      "Ergonomics": {
+        "name": "RAIL COVER",
+        "weight": 5,
+        "level": 2
+      }
+    },
+    "Best DRS IAR Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" SDM-R",
+        "weight": 10,
+        "level": 14
+      },
+      "Underbarrel": {
+        "name": "6H64 VERTICAL",
+        "weight": 25,
+        "level": 13
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "36 RND",
+        "weight": 15,
+        "level": 12
+      },
+      "Ergonomics": {
+        "name": "RAIL COVER",
+        "weight": 5,
+        "level": 1
+      }
+    }
+  },
+  "rpk-74m": {
+    "Best RPK 74M Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "590MM FACTORY",
+        "weight": 10,
+        "level": 14
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 13
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 33
+      },
+      "Magazine": {
+        "name": "50RND MAGAZINE",
+        "weight": 10,
+        "level": 30
+      }
+    },
+    "Best RPK 74M Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "590MM FACTORY",
+        "weight": 10,
+        "level": 35
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 33
+      },
+      "Magazine": {
+        "name": "45RND FAST MAG",
+        "weight": 10,
+        "level": 22
+      }
+    },
+    "Best RPK 74M Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "590MM FACTORY",
+        "weight": 10,
+        "level": 17
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 13
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 33
+      },
+      "Ergonomics": {
+        "name": "AFTERMARKET BUFFER",
+        "weight": 5,
+        "level": 22
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 18
+      }
+    },
+    "Best RPK 74M Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "590MM FACTORY",
+        "weight": 10,
+        "level": 17
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 24
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 9
+      },
+      "Left Accessory": {
+        "name": "FLASHLIGHT",
+        "weight": 10,
+        "level": 1
+      },
+      "Magazine": {
+        "name": "45RND MAGAZINE",
+        "weight": 5,
+        "level": 23
+      }
+    }
+  },
+  "m250": {
+    "Best M250 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "556MM PROTOTYPE",
+        "weight": 10,
+        "level": 3
+      },
+      "Underbarrel": {
+        "name": "STIPPLED STUBBY",
+        "weight": 35,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 2
+      }
+    },
+    "Best M250 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "556MM PROTOTYPE",
+        "weight": 10,
+        "level": 3
+      },
+      "Underbarrel": {
+        "name": "STIPPLED STUBBY",
+        "weight": 35,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 2
+      }
+    },
+    "Best M250 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "556MM PROTOTYPE",
+        "weight": 10,
+        "level": 3
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 32
+      },
+      "Magazine": {
+        "name": "50RND BELT POUCH",
+        "weight": 5,
+        "level": 15
+      }
+    },
+    "Best M250 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "556MM PROTOTYPE",
+        "weight": 10,
+        "level": 3
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 39
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 32
+      },
+      "Magazine": {
+        "name": "50RND BELT POUCH",
+        "weight": 5,
+        "level": 15
+      }
+    }
+  },
+  "l110": {
+    "Best L110 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "465MM LB",
+        "weight": 10,
+        "level": 3
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "100RND BELT POUCH",
+        "weight": 5,
+        "level": 5
+      }
+    },
+    "Best L110 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "465MM LB",
+        "weight": 10,
+        "level": 3
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "100RND BELT POUCH",
+        "weight": 5,
+        "level": 5
+      }
+    },
+    "Best L110 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "349MM FLUTED",
+        "weight": 20,
+        "level": 37
+      },
+      "Underbarrel": {
+        "name": "FULL ANGLED",
+        "weight": 25,
+        "level": 24
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "100RND BELT POUCH",
+        "weight": 5,
+        "level": 5
+      }
+    },
+    "Best L110 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "349MM FLUTED",
+        "weight": 20,
+        "level": 37
+      },
+      "Underbarrel": {
+        "name": "FULL ANGLED",
+        "weight": 25,
+        "level": 24
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "100RND BELT POUCH",
+        "weight": 5,
+        "level": 5
+      }
+    }
+  },
+  "rpkm": {
+    "Best RPKM Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "590MM FACTORY",
+        "weight": 10,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "40RND FAST MAG",
+        "weight": 10,
+        "level": 24
+      }
+    },
+    "Best RPKM Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "590MM FACTORY",
+        "weight": 10,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "40RND FAST MAG",
+        "weight": 10,
+        "level": 24
+      }
+    },
+    "Best RPKM Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "600MM TABUK",
+        "weight": 5,
+        "level": 21
+      },
+      "Underbarrel": {
+        "name": "FULL ANGLED",
+        "weight": 25,
+        "level": 25
+      },
+      "Ammunition": {
+        "name": "SYNTHETIC TIP",
+        "weight": 30,
+        "level": 38
+      },
+      "Muzzle": {
+        "name": "LONG SUPPRESSOR",
+        "weight": 25,
+        "level": 27
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 5,
+        "level": 2
+      }
+    },
+    "Best RPKM Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "600MM TABUK",
+        "weight": 5,
+        "level": 21
+      },
+      "Underbarrel": {
+        "name": "FULL ANGLED",
+        "weight": 25,
+        "level": 25
+      },
+      "Ammunition": {
+        "name": "SYNTHETIC TIP",
+        "weight": 30,
+        "level": 38
+      },
+      "Muzzle": {
+        "name": "LONG SUPPRESSOR",
+        "weight": 25,
+        "level": 27
+      },
+      "Magazine": {
+        "name": "40RND MAGAZINE",
+        "weight": 5,
+        "level": 2
+      }
+    }
+  },
+  "m121-a2": {
+    "Best M121 A2 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "660MM VMW",
+        "weight": 10,
+        "level": 21
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "50RND BELT POUCH",
+        "weight": 10,
+        "level": 6
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 10
+      }
+    },
+    "Best M121 A2 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "660MM VMW",
+        "weight": 10,
+        "level": 21
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "50RND BELT POUCH",
+        "weight": 10,
+        "level": 6
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 10
+      }
+    },
+    "Best M121 A2 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "660MM VMW",
+        "weight": 10,
+        "level": 21
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 19
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "50RND BELT POUCH",
+        "weight": 10,
+        "level": 6
+      },
+      "Right Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best M121 A2 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "660MM VMW",
+        "weight": 10,
+        "level": 21
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 25,
+        "level": 19
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "50RND BELT POUCH",
+        "weight": 10,
+        "level": 6
+      },
+      "Right Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 3
+      }
+    }
+  },
+  "m123k": {
+    "Best M123K Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "612MM VMW",
+        "weight": 10,
+        "level": 22
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 34
+      },
+      "Magazine": {
+        "name": "100RND BELT POUCH",
+        "weight": 5,
+        "level": 7
+      }
+    },
+    "Best M123K Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "612MM VMW",
+        "weight": 10,
+        "level": 22
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 34
+      },
+      "Magazine": {
+        "name": "100RND BELT POUCH",
+        "weight": 5,
+        "level": 7
+      }
+    },
+    "Best M123K Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "612MM VMW",
+        "weight": 10,
+        "level": 22
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 23
+      },
+      "Magazine": {
+        "name": "100RND BELT POUCH",
+        "weight": 5,
+        "level": 7
+      }
+    },
+    "Best M123K Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "612MM VMW",
+        "weight": 10,
+        "level": 22
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 23
+      },
+      "Magazine": {
+        "name": "100RND BELT POUCH",
+        "weight": 5,
+        "level": 7
+      }
+    }
+  },
+  "m60": {
+    "Best M60 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "22\" E3 LONG",
+        "weight": 10,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 34
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      }
+    },
+    "Best M60 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "22\" E3 LONG",
+        "weight": 10,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 34
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      }
+    },
+    "Best M60 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "22\" E3 LONG",
+        "weight": 10,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "STIPPLED STUBBY",
+        "weight": 35,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "50 RND",
+        "weight": 5,
+        "level": 24
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 2
+      }
+    },
+    "Best M60 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "22\" E3 LONG",
+        "weight": 10,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "STIPPLED STUBBY",
+        "weight": 35,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 38
+      },
+      "Magazine": {
+        "name": "50 RND",
+        "weight": 5,
+        "level": 24
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 2
+      }
+    }
+  },
+  "m240l": {
+    "Best M240L Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "24\" BRAVO",
+        "weight": 10,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "75RND BELT BOX",
+        "weight": 10,
+        "level": 17
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 9
+      }
+    },
+    "Best M240L Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "24\" BRAVO",
+        "weight": 10,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "CLASSIC VERTICAL",
+        "weight": 35,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 39
+      },
+      "Magazine": {
+        "name": "75RND BELT BOX",
+        "weight": 10,
+        "level": 17
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 9
+      }
+    },
+    "Best M240L Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "24\" BRAVO",
+        "weight": 10,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "75RND BELT BOX",
+        "weight": 10,
+        "level": 17
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 9
+      }
+    },
+    "Best M240L Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "24\" BRAVO",
+        "weight": 10,
+        "level": 4
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 38
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "75RND BELT BOX",
+        "weight": 10,
+        "level": 17
+      },
+      "Scope": {
+        "name": "RO-M 1.75X",
+        "weight": 10,
+        "level": 9
+      }
+    }
+  },
+  "kts100-mk8": {
+    "Best KTS100 MK8 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "508MM MK8",
+        "weight": 10,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 23
+      },
+      "Magazine": {
+        "name": "60RND MAGAZINE",
+        "weight": 10,
+        "level": 21
+      },
+      "Right Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 17
+      }
+    },
+    "Best KTS100 MK8 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "508MM MK8",
+        "weight": 10,
+        "level": 21
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "60RND MAGAZINE",
+        "weight": 10,
+        "level": 21
+      },
+      "Right Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 17
+      }
+    },
+    "Best KTS100 MK8 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "508MM MK8",
+        "weight": 10,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 15
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "60RND DRUM MAG",
+        "weight": 5,
+        "level": 2
+      }
+    },
+    "Best KTS100 MK8 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "508MM MK8",
+        "weight": 10,
+        "level": 37
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 15
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 37
+      },
+      "Magazine": {
+        "name": "60RND DRUM MAG",
+        "weight": 5,
+        "level": 2
+      }
+    }
+  },
+  "m2010-esr": {
+    "Best M2010 ESR Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "26\" CARBON",
+        "weight": 5,
+        "level": 16
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Muzzle": {
+        "name": "STANDARD SUPPRESSOR",
+        "weight": 20,
+        "level": 21
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 2
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "8RND MAGAZINE",
+        "weight": 25,
+        "level": 24
+      },
+      "Scope": {
+        "name": "LERT 8.00X",
+        "weight": 10,
+        "level": 26
+      }
+    },
+    "Best M2010 ESR Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "26\" CARBON",
+        "weight": 5,
+        "level": 16
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Muzzle": {
+        "name": "STANDARD SUPPRESSOR",
+        "weight": 20,
+        "level": 21
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 2
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "8RND MAGAZINE",
+        "weight": 25,
+        "level": 24
+      },
+      "Scope": {
+        "name": "LERT 8.00X",
+        "weight": 10,
+        "level": 26
+      }
+    },
+    "Best M2010 ESR Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "26\" CARBON",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "FULL ANGLED",
+        "weight": 5,
+        "level": 2
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Ergonomics": {
+        "name": "DLC BOLT",
+        "weight": 30,
+        "level": 13
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 2
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "5RND FAST MAG",
+        "weight": 10,
+        "level": 15
+      },
+      "Scope": {
+        "name": "SSDS 6.00X",
+        "weight": 10,
+        "level": 10
+      }
+    },
+    "Best M2010 ESR Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "26\" CARBON",
+        "weight": 5,
+        "level": 16
+      },
+      "Underbarrel": {
+        "name": "FULL ANGLED",
+        "weight": 5,
+        "level": 2
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Ergonomics": {
+        "name": "DLC BOLT",
+        "weight": 30,
+        "level": 13
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 2
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Magazine": {
+        "name": "5RND FAST MAG",
+        "weight": 10,
+        "level": 15
+      },
+      "Scope": {
+        "name": "SSDS 6.00X",
+        "weight": 10,
+        "level": 10
+      }
+    }
+  },
+  "sv-98": {
+    "Best SV 98 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "730MM 3LR",
+        "weight": 5,
+        "level": 9
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 15,
+        "level": 22
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Muzzle": {
+        "name": "LONG SUPPRESSOR",
+        "weight": 30,
+        "level": 35
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 7
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 22
+      }
+    },
+    "Best SV 98 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "730MM 3LR",
+        "weight": 5,
+        "level": 9
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 15,
+        "level": 22
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Muzzle": {
+        "name": "LONG SUPPRESSOR",
+        "weight": 30,
+        "level": 35
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 7
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 22
+      }
+    },
+    "Best SV 98 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "730MM 3LR",
+        "weight": 5,
+        "level": 9
+      },
+      "Underbarrel": {
+        "name": "FULL ANGLED",
+        "weight": 5,
+        "level": 7
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 7
+      },
+      "Ergonomics": {
+        "name": "DLC BOLT",
+        "weight": 30,
+        "level": 13
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 14
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 10
+      }
+    },
+    "Best SV 98 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "730MM 3LR",
+        "weight": 5,
+        "level": 9
+      },
+      "Underbarrel": {
+        "name": "FULL ANGLED",
+        "weight": 5,
+        "level": 7
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 7
+      },
+      "Ergonomics": {
+        "name": "DLC BOLT",
+        "weight": 30,
+        "level": 13
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 14
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 10
+      }
+    }
+  },
+  "l115": {
+    "Best L115 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "32\" CUSTOM",
+        "weight": 5,
+        "level": 18
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 15,
+        "level": 35
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 30
+      },
+      "Muzzle": {
+        "name": "STANDARD SUPPRESSOR",
+        "weight": 20,
+        "level": 4
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 23
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 37
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 7
+      }
+    },
+    "Best L115 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "32\" CUSTOM",
+        "weight": 5,
+        "level": 18
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 15,
+        "level": 35
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 30
+      },
+      "Muzzle": {
+        "name": "STANDARD SUPPRESSOR",
+        "weight": 20,
+        "level": 4
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 23
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 37
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 7
+      }
+    },
+    "Best L115 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "32\" CUSTOM",
+        "weight": 5,
+        "level": 18
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 15,
+        "level": 35
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 30
+      },
+      "Muzzle": {
+        "name": "STANDARD SUPPRESSOR",
+        "weight": 20,
+        "level": 4
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 23
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 37
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 7
+      }
+    },
+    "Best L115 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "32\" CUSTOM",
+        "weight": 5,
+        "level": 18
+      },
+      "Underbarrel": {
+        "name": "SLIM ANGLED",
+        "weight": 15,
+        "level": 35
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 30
+      },
+      "Muzzle": {
+        "name": "STANDARD SUPPRESSOR",
+        "weight": 20,
+        "level": 4
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 23
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 37
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 7
+      }
+    }
+  },
+  "psr": {
+    "Best PSR Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "27\" MK22",
+        "weight": 5,
+        "level": 22
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Muzzle": {
+        "name": "STANDARD SUPPRESSOR",
+        "weight": 20,
+        "level": 21
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 7
+      },
+      "Top Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 22
+      }
+    },
+    "Best PSR Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "27\" MK22",
+        "weight": 5,
+        "level": 22
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Muzzle": {
+        "name": "STANDARD SUPPRESSOR",
+        "weight": 20,
+        "level": 21
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 7
+      },
+      "Top Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 22
+      }
+    },
+    "Best PSR Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "27\" MK22",
+        "weight": 5,
+        "level": 9
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Ergonomics": {
+        "name": "DLC BOLT",
+        "weight": 30,
+        "level": 13
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 7
+      },
+      "Top Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 12
+      },
+      "Magazine": {
+        "name": "7RND MAGAZINE",
+        "weight": 5,
+        "level": 9
+      },
+      "Scope": {
+        "name": "SSDS 6.00X",
+        "weight": 10,
+        "level": 17
+      }
+    },
+    "Best PSR Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "27\" MK22",
+        "weight": 5,
+        "level": 9
+      },
+      "Ammunition": {
+        "name": "MATCH GRADE",
+        "weight": 10,
+        "level": 3
+      },
+      "Ergonomics": {
+        "name": "DLC BOLT",
+        "weight": 30,
+        "level": 13
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 36
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 7
+      },
+      "Top Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 12
+      },
+      "Magazine": {
+        "name": "7RND MAGAZINE",
+        "weight": 5,
+        "level": 9
+      },
+      "Scope": {
+        "name": "SSDS 6.00X",
+        "weight": 10,
+        "level": 17
+      }
+    }
+  },
+  "mini-scout": {
+    "Best MINI SCOUT Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "18\" EXTENDED",
+        "weight": 5,
+        "level": 4
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 19
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 40
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 24
+      },
+      "Magazine": {
+        "name": "15RND MAGAZINE",
+        "weight": 30,
+        "level": 17
+      },
+      "Scope": {
+        "name": "SSDS 6.00X",
+        "weight": 10,
+        "level": 23
+      }
+    },
+    "Best MINI SCOUT Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "18\" EXTENDED",
+        "weight": 5,
+        "level": 4
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 19
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 40
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 24
+      },
+      "Magazine": {
+        "name": "15RND MAGAZINE",
+        "weight": 30,
+        "level": 17
+      },
+      "Scope": {
+        "name": "SSDS 6.00X",
+        "weight": 10,
+        "level": 23
+      }
+    },
+    "Best MINI SCOUT Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "18\" EXTENDED",
+        "weight": 5,
+        "level": 4
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 19
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 40
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 24
+      },
+      "Magazine": {
+        "name": "15RND MAGAZINE",
+        "weight": 30,
+        "level": 17
+      },
+      "Scope": {
+        "name": "SSDS 6.00X",
+        "weight": 10,
+        "level": 23
+      }
+    },
+    "Best MINI SCOUT Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "18\" EXTENDED",
+        "weight": 5,
+        "level": 4
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 19
+      },
+      "Optic Accessory": {
+        "name": "ANTI-GLARE COATING",
+        "weight": 10,
+        "level": 40
+      },
+      "Left Accessory": {
+        "name": "RANGE FINDER",
+        "weight": 15,
+        "level": 24
+      },
+      "Magazine": {
+        "name": "15RND MAGAZINE",
+        "weight": 30,
+        "level": 17
+      },
+      "Scope": {
+        "name": "SSDS 6.00X",
+        "weight": 10,
+        "level": 23
+      }
+    }
+  },
+  "m39-emr": {
+    "Best M39 EMR Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED",
+        "weight": 5,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 6
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 5,
+        "level": 5
+      }
+    },
+    "Best M39 EMR Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED",
+        "weight": 5,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 6
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 5,
+        "level": 5
+      }
+    },
+    "Best M39 EMR Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED",
+        "weight": 5,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 6
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 5,
+        "level": 5
+      }
+    },
+    "Best M39 EMR Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED",
+        "weight": 5,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 6
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 5,
+        "level": 5
+      }
+    }
+  },
+  "svk-86": {
+    "Best SVK 86 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED",
+        "weight": 5,
+        "level": 27
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 20
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 30
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 22
+      }
+    },
+    "Best SVK 86 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED",
+        "weight": 5,
+        "level": 27
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 20
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 30
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 22
+      }
+    },
+    "Best SVK 86 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED",
+        "weight": 5,
+        "level": 23
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 20
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 30
+      },
+      "Optic Accessory": {
+        "name": "CANTED REFLEX",
+        "weight": 10,
+        "level": 16
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 9
+      }
+    },
+    "Best SVK 86 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "EXTENDED",
+        "weight": 5,
+        "level": 23
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 20
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 30
+      },
+      "Optic Accessory": {
+        "name": "CANTED REFLEX",
+        "weight": 10,
+        "level": 16
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 9
+      }
+    }
+  },
+  "lmr27": {
+    "Best LMR27 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "24\" EXTENDED",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "FOLDING VERTICAL",
+        "weight": 10,
+        "level": 2
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 20
+      },
+      "Magazine": {
+        "name": "20 RND",
+        "weight": 45,
+        "level": 28
+      }
+    },
+    "Best LMR27 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "24\" EXTENDED",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "FOLDING VERTICAL",
+        "weight": 10,
+        "level": 2
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 20
+      },
+      "Magazine": {
+        "name": "20 RND",
+        "weight": 45,
+        "level": 28
+      }
+    },
+    "Best LMR27 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "24\" EXTENDED",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 31
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 22
+      },
+      "Magazine": {
+        "name": "10 RND",
+        "weight": 5,
+        "level": 10
+      }
+    },
+    "Best LMR27 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "24\" EXTENDED",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 31
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 22
+      },
+      "Magazine": {
+        "name": "10 RND",
+        "weight": 5,
+        "level": 10
+      }
+    }
+  },
+  "svdm": {
+    "Best SVDM Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "620MM CLASSIC",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "FOLDING VERTICAL",
+        "weight": 10,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 11
+      },
+      "Magazine": {
+        "name": "20 RND",
+        "weight": 45,
+        "level": 25
+      },
+      "Scope": {
+        "name": "BAKER 3.00X",
+        "weight": 10,
+        "level": 12
+      }
+    },
+    "Best SVDM Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "620MM CLASSIC",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "FOLDING VERTICAL",
+        "weight": 10,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 11
+      },
+      "Magazine": {
+        "name": "20 RND",
+        "weight": 45,
+        "level": 25
+      },
+      "Scope": {
+        "name": "BAKER 3.00X",
+        "weight": 10,
+        "level": 12
+      }
+    },
+    "Best SVDM Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "620MM CLASSIC",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 20,
+        "level": 36
+      },
+      "Muzzle": {
+        "name": "LINEAR COMP",
+        "weight": 10,
+        "level": 6
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 12
+      }
+    },
+    "Best SVDM Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "620MM CLASSIC",
+        "weight": 5,
+        "level": 15
+      },
+      "Underbarrel": {
+        "name": "LOW-PROFILE STUBBY",
+        "weight": 45,
+        "level": 32
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 20,
+        "level": 36
+      },
+      "Muzzle": {
+        "name": "LINEAR COMP",
+        "weight": 10,
+        "level": 6
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "10RND MAGAZINE",
+        "weight": 5,
+        "level": 12
+      }
+    }
+  },
+  "grt-cps": {
+    "Best GRT CPS Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "20\" FACTORY",
+        "weight": 5,
+        "level": 14
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 36
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Top Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 7
+      }
+    },
+    "Best GRT CPS Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "20\" FACTORY",
+        "weight": 5,
+        "level": 14
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 36
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Top Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 7
+      }
+    },
+    "Best GRT CPS Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" FACTORY",
+        "weight": 5,
+        "level": 14
+      },
+      "Ammunition": {
+        "name": "POLYMER CASE",
+        "weight": 10,
+        "level": 36
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Top Accessory": {
+        "name": "50 MW VIOLET",
+        "weight": 10,
+        "level": 7
+      }
+    },
+    "Best GRT CPS Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" FACTORY",
+        "weight": 5,
+        "level": 14
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 15
+      },
+      "Muzzle": {
+        "name": "LIGHTENED SUPPRESSOR",
+        "weight": 30,
+        "level": 38
+      },
+      "Top Accessory": {
+        "name": "50 MW GREEN",
+        "weight": 20,
+        "level": 21
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 5,
+        "level": 1
+      }
+    }
+  },
+  "m87a1": {
+    "Best M87A1 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "20\" FACTORY",
+        "weight": 10,
+        "level": 18
+      },
+      "Magazine": {
+        "name": "7 SHELL TUBE",
+        "weight": 5,
+        "level": 35
+      }
+    },
+    "Best M87A1 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "20\" FACTORY",
+        "weight": 10,
+        "level": 18
+      },
+      "Magazine": {
+        "name": "7 SHELL TUBE",
+        "weight": 5,
+        "level": 35
+      }
+    },
+    "Best M87A1 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" FACTORY",
+        "weight": 10,
+        "level": 18
+      },
+      "Magazine": {
+        "name": "7 SHELL TUBE",
+        "weight": 5,
+        "level": 35
+      }
+    },
+    "Best M87A1 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "20\" FACTORY",
+        "weight": 10,
+        "level": 18
+      },
+      "Magazine": {
+        "name": "7 SHELL TUBE",
+        "weight": 5,
+        "level": 35
+      }
+    }
+  },
+  "m1014": {
+    "Best M1014 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "18.5\" FACTORY",
+        "weight": 10,
+        "level": 40
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 34
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 19
+      }
+    },
+    "Best M1014 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "18.5\" FACTORY",
+        "weight": 10,
+        "level": 40
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 34
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 19
+      }
+    },
+    "Best M1014 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "18.5\" FACTORY",
+        "weight": 10,
+        "level": 40
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 34
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 19
+      }
+    },
+    "Best M1014 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "18.5\" FACTORY",
+        "weight": 10,
+        "level": 40
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 34
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 19
+      }
+    }
+  },
+  "db-12": {
+    "Best DB 12 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "18.9\" FACTORY",
+        "weight": 10,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "7 SHELL DUAL TUBES",
+        "weight": 5,
+        "level": 22
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best DB 12 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "18.9\" FACTORY",
+        "weight": 10,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "7 SHELL DUAL TUBES",
+        "weight": 5,
+        "level": 22
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best DB 12 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "18.9\" FACTORY",
+        "weight": 10,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "7 SHELL DUAL TUBES",
+        "weight": 5,
+        "level": 22
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 3
+      }
+    },
+    "Best DB 12 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "18.9\" FACTORY",
+        "weight": 10,
+        "level": 25
+      },
+      "Magazine": {
+        "name": "7 SHELL DUAL TUBES",
+        "weight": 5,
+        "level": 22
+      },
+      "Scope": {
+        "name": "MINI FLEX 1.00X",
+        "weight": 10,
+        "level": 3
+      }
+    }
+  },
+  "185ks-k": {
+    "Best 185KS K Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "430MM FACTORY",
+        "weight": 5,
+        "level": 29
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 18
+      },
+      "Magazine": {
+        "name": "4 RND",
+        "weight": 5,
+        "level": 6
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 22
+      }
+    },
+    "Best 185KS K Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "430MM FACTORY",
+        "weight": 5,
+        "level": 29
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 18
+      },
+      "Magazine": {
+        "name": "4 RND",
+        "weight": 5,
+        "level": 6
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 22
+      }
+    },
+    "Best 185KS K Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "430MM FACTORY",
+        "weight": 5,
+        "level": 29
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 18
+      },
+      "Magazine": {
+        "name": "4 RND",
+        "weight": 5,
+        "level": 6
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 22
+      }
+    },
+    "Best 185KS K Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "430MM FACTORY",
+        "weight": 5,
+        "level": 29
+      },
+      "Underbarrel": {
+        "name": "SLIM HANDSTOP",
+        "weight": 15,
+        "level": 18
+      },
+      "Magazine": {
+        "name": "4 RND",
+        "weight": 5,
+        "level": 6
+      },
+      "Right Accessory": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 22
+      }
+    }
+  },
+  "m357-trait": {
+    "Best M357 TRAIT Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "BASIC",
+        "weight": 10,
+        "level": 11
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 20,
+        "level": 29
+      },
+      "Magazine": {
+        "name": "8RND SPEEDLOADER",
+        "weight": 5,
+        "level": 6
+      }
+    },
+    "Best M357 TRAIT Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "BASIC",
+        "weight": 10,
+        "level": 11
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 20,
+        "level": 29
+      },
+      "Magazine": {
+        "name": "8RND SPEEDLOADER",
+        "weight": 5,
+        "level": 6
+      }
+    },
+    "Best M357 TRAIT Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "BASIC",
+        "weight": 10,
+        "level": 11
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 20,
+        "level": 29
+      },
+      "Magazine": {
+        "name": "8RND SPEEDLOADER",
+        "weight": 5,
+        "level": 6
+      }
+    },
+    "Best M357 TRAIT Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "BASIC",
+        "weight": 10,
+        "level": 11
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 20,
+        "level": 29
+      },
+      "Magazine": {
+        "name": "8RND SPEEDLOADER",
+        "weight": 5,
+        "level": 6
+      }
+    }
+  },
+  "m44": {
+    "Best M44 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "8.37\" LONG",
+        "weight": 5,
+        "level": 5
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 15,
+        "level": 21
+      }
+    },
+    "Best M44 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "8.37\" LONG",
+        "weight": 5,
+        "level": 5
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 15,
+        "level": 21
+      }
+    },
+    "Best M44 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "8.37\" LONG",
+        "weight": 5,
+        "level": 5
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 15,
+        "level": 21
+      }
+    },
+    "Best M44 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "8.37\" LONG",
+        "weight": 5,
+        "level": 5
+      },
+      "Ammunition": {
+        "name": "HOLLOW POINT",
+        "weight": 15,
+        "level": 21
+      }
+    }
+  },
+  "es57": {
+    "Best ES57 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "122MM FACTORY",
+        "weight": 10,
+        "level": 24
+      },
+      "Underbarrel": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 6
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 15
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 12
+      }
+    },
+    "Best ES57 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "122MM FACTORY",
+        "weight": 10,
+        "level": 24
+      },
+      "Underbarrel": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 6
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 15
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 12
+      }
+    },
+    "Best ES57 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "122MM FACTORY",
+        "weight": 10,
+        "level": 24
+      },
+      "Underbarrel": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 6
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 15
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 12
+      }
+    },
+    "Best ES57 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "122MM FACTORY",
+        "weight": 10,
+        "level": 24
+      },
+      "Underbarrel": {
+        "name": "5 MW GREEN",
+        "weight": 10,
+        "level": 6
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 15
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 12
+      }
+    }
+  },
+  "ggh-22": {
+    "Best GGH 22 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "114MM FACTORY",
+        "weight": 10,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 20,
+        "level": 12
+      }
+    },
+    "Best GGH 22 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "114MM FACTORY",
+        "weight": 10,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 20,
+        "level": 12
+      }
+    },
+    "Best GGH 22 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "114MM FACTORY",
+        "weight": 10,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 20,
+        "level": 12
+      }
+    },
+    "Best GGH 22 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "114MM FACTORY",
+        "weight": 10,
+        "level": 15
+      },
+      "Magazine": {
+        "name": "20RND MAGAZINE",
+        "weight": 20,
+        "level": 12
+      }
+    }
+  },
+  "m45a1": {
+    "Best M45A1 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "5\" FACTORY",
+        "weight": 10,
+        "level": 6
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 12
+      },
+      "Magazine": {
+        "name": "11 RND MAGAZINE",
+        "weight": 25,
+        "level": 9
+      }
+    },
+    "Best M45A1 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "5\" FACTORY",
+        "weight": 10,
+        "level": 6
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 12
+      },
+      "Magazine": {
+        "name": "11 RND MAGAZINE",
+        "weight": 25,
+        "level": 9
+      }
+    },
+    "Best M45A1 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "5\" FACTORY",
+        "weight": 10,
+        "level": 6
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 12
+      },
+      "Magazine": {
+        "name": "11 RND MAGAZINE",
+        "weight": 25,
+        "level": 9
+      }
+    },
+    "Best M45A1 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "5\" FACTORY",
+        "weight": 10,
+        "level": 6
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 12
+      },
+      "Magazine": {
+        "name": "11 RND MAGAZINE",
+        "weight": 25,
+        "level": 9
+      }
+    }
+  },
+  "p18": {
+    "Best P18 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "3.9\" FACTORY",
+        "weight": 10,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 14
+      },
+      "Magazine": {
+        "name": "21RND MAGAZINE",
+        "weight": 15,
+        "level": 9
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 1
+      }
+    },
+    "Best P18 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "3.9\" FACTORY",
+        "weight": 10,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 14
+      },
+      "Magazine": {
+        "name": "21RND MAGAZINE",
+        "weight": 15,
+        "level": 9
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 1
+      }
+    },
+    "Best P18 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "3.9\" FACTORY",
+        "weight": 10,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 14
+      },
+      "Magazine": {
+        "name": "21RND MAGAZINE",
+        "weight": 15,
+        "level": 9
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 1
+      }
+    },
+    "Best P18 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "3.9\" FACTORY",
+        "weight": 10,
+        "level": 1
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "weight": 5,
+        "level": 14
+      },
+      "Magazine": {
+        "name": "21RND MAGAZINE",
+        "weight": 15,
+        "level": 9
+      },
+      "Ergonomics": {
+        "name": "IMPROVED MAG CATCH",
+        "weight": 5,
+        "level": 1
+      }
+    }
+  },
+  "vz-61": {
+    "Best VZ 61 Loadout for Battlefield 6 Battle Royale in Season 3": {
+      "Barrel": {
+        "name": "115MM FACTORY",
+        "weight": 10,
+        "level": 26
+      }
+    },
+    "Best VZ 61 Loadout for Battlefield 6 Ranked in Season 3": {
+      "Barrel": {
+        "name": "115MM FACTORY",
+        "weight": 10,
+        "level": 26
+      }
+    },
+    "Best VZ 61 Loadout for Battlefield 6 Big Maps in Season 3": {
+      "Barrel": {
+        "name": "115MM FACTORY",
+        "weight": 10,
+        "level": 26
+      }
+    },
+    "Best VZ 61 Loadout for Battlefield 6 Small Maps in Season 3": {
+      "Barrel": {
+        "name": "115MM FACTORY",
+        "weight": 10,
+        "level": 26
+      }
+    }
+  }
+}

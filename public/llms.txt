@@ -1,0 +1,35 @@
+# BF6 Loadout Guide
+
+> Free Battlefield 6 loadout builder. Shows best attachments for every weapon at every rank (1-40) across Battle Royale, Ranked, Big Maps, and Small Maps. No account required.
+
+## Details
+
+62 weapons across 9 categories: Assault Rifle, Carbine, SMG, LMG, DMR, Sniper, Shotgun, Pistol. Each weapon has full rank 1-40 data with attachment names, costs, and unlock levels for 4 game modes.
+
+## Links
+
+- [Homepage](https://bf6loadout.gg)
+- [Weapon loadout API](https://bf6loadout.gg/api/loadout/pp-19)
+- [Weapon metadata API](https://bf6loadout.gg/api/weapon/pp-19)
+
+## API Reference
+
+### Get weapon loadout data
+
+GET /api/loadout/{weapon-slug}
+
+Returns all mode loadout data (rank 1-40 for battle-royale, ranked, big-maps, small-maps).
+
+Example: [GET /api/loadout/pp-19](https://bf6loadout.gg/api/loadout/pp-19)
+
+### Get weapon metadata
+
+GET /api/weapon/{weapon-slug}
+
+Returns weapon display name, type, image URL, and default loadouts.
+
+Example: [GET /api/weapon/pp-19](https://bf6loadout.gg/api/weapon/pp-19)
+
+### Weapon slugs
+
+Valid slugs: ak4d, b36a4, kord-6p67, l85a3, m16a4, m433, nvo-228e, sor-556-mk2, tr-7, vcr-2, ak-205, grt-bc, m277, m417-a2, m4a1, qbz-192, sg-553r, sor-300sc, cz3a1, kv9, pp-19, pw5a3, pw7a2, scw-10, sgx, sl9, umg-40, usg-90, drs-iar, kts100-mk8, l110, m-60, m121-a2, m123k, m240l, m250, rpk-74m, rpkm, grt-cps, lmr27, m39-emr, svdm, svk-8-6, l115, m2010-esr, mini-scout, psr, sv-98, 18-5ks-k, db-12, m1014, m87a1, es-5-7, ggh-22, m357-trait, m44, m45a1, p18, vz-61

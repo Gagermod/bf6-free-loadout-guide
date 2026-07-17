@@ -1,0 +1,1720 @@
+{
+  "weapon": "m16a4",
+  "mode": "battle-royale",
+  "loadouts": {
+    "0": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "1": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "2": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "3": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      }
+    },
+    "4": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "5": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "6": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "7": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "8": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "9": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "10": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "11": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "12": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "13": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "14": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "15": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "16": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "17": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "18": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "19": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "20": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "21": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "22": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "23": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "24": {
+      "Barrel": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "25": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "26": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (20)",
+        "cost": 20,
+        "mastery": 16,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "27": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "28": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "29": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "30": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "31": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 28,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 31,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "32": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (35)",
+        "cost": 35,
+        "mastery": 32,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 31,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "33": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (35)",
+        "cost": 35,
+        "mastery": 32,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 31,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "34": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (45)",
+        "cost": 45,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "35": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (45)",
+        "cost": 45,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "36": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (45)",
+        "cost": 45,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "37": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (45)",
+        "cost": 45,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (25)",
+        "cost": 25,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "38": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (35)",
+        "cost": 35,
+        "mastery": 36,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 39,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "39": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (35)",
+        "cost": 35,
+        "mastery": 36,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 39,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "40": {
+      "Barrel": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Unknown (35)",
+        "cost": 35,
+        "mastery": 36,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "Unknown (5)",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 39,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    }
+  }
+}

@@ -1,0 +1,1720 @@
+{
+  "weapon": "scw-10",
+  "mode": "battle-royale",
+  "loadouts": {
+    "0": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "1": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "2": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "3": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "4": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "5": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "6": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "7": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Vertical",
+        "cost": 10,
+        "mastery": 2,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "8": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "9": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "10": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "11": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "12": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Classic Vertical",
+        "cost": 35,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "Unknown (10)",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "13": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "14": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "15": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "16": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "17": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 6,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "18": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "19": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "20": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "21": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "15RND Magazine",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "22": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "CQB Suppressor",
+        "cost": 30,
+        "mastery": 20,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 20,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "23": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 20,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "24": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 20,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "25": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Ribbed Stubby",
+        "cost": 30,
+        "mastery": 25,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 14,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 20,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "26": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "20RND Magazine",
+        "cost": 20,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Ergonomics": {
+        "name": "Improved Mag Catch",
+        "cost": 5,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "27": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "28": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "29": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "30": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "31": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "32": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "33": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "34": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "35": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "36": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "37": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "38": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "39": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "40": {
+      "Barrel": {
+        "name": "Extended Barrel",
+        "cost": 15,
+        "mastery": 1,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 26,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "25RND Magazine",
+        "cost": 45,
+        "mastery": 27,
+        "unlock": null
+      },
+      "Top Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    }
+  }
+}

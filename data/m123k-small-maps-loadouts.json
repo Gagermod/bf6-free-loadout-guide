@@ -1,0 +1,1840 @@
+{
+  "weapon": "m123k",
+  "mode": "small-maps",
+  "loadouts": {
+    "0": {
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "1": {
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "2": {
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "3": {
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Iron Sights",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      }
+    },
+    "4": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "CCO 2.00x",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "5": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "CCO 2.00x",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "6": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "CCO 2.00x",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "7": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "CCO 2.00x",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      }
+    },
+    "8": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "9": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "10": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Slim Handstop",
+        "cost": 15,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "11": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "12": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "13": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "14": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "15": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "16": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Flash Hider",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": "SEASON 2 HARDWARE 3"
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "17": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 17,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "18": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Ribbed Stubby",
+        "cost": 30,
+        "mastery": 18,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 17,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "19": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 17,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "20": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Folding Stubby",
+        "cost": 20,
+        "mastery": 11,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 17,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "21": {
+      "Barrel": {
+        "name": "450mm Standard",
+        "cost": 10,
+        "mastery": 3,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Canted Stubby",
+        "cost": 30,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 17,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "22": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Canted Stubby",
+        "cost": 30,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Standard Suppressor",
+        "cost": 20,
+        "mastery": 17,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 8,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "23": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Canted Stubby",
+        "cost": 30,
+        "mastery": 21,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "24": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "25": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "26": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "27": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "28": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "29": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "30": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "31": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "32": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "33": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 19,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "34": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Full Angled",
+        "cost": 25,
+        "mastery": 24,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Lightened Suppressor",
+        "cost": 30,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Green",
+        "cost": 10,
+        "mastery": 12,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "35": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 35,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Lightened Suppressor",
+        "cost": 30,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "36": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 35,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Lightened Suppressor",
+        "cost": 30,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "37": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Stippled Stubby",
+        "cost": 35,
+        "mastery": 35,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Lightened Suppressor",
+        "cost": 30,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "38": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 38,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "39": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 38,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    },
+    "40": {
+      "Barrel": {
+        "name": "612mm VMW",
+        "cost": 10,
+        "mastery": 22,
+        "unlock": null
+      },
+      "Underbarrel": {
+        "name": "Low-Profile Stubby",
+        "cost": 45,
+        "mastery": 38,
+        "unlock": null
+      },
+      "Ammunition": {
+        "name": "FMJ",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Long Suppressor",
+        "cost": 25,
+        "mastery": 23,
+        "unlock": null
+      },
+      "Magazine": {
+        "name": "100RND Belt Pouch",
+        "cost": 5,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "RO-M 1.75x",
+        "cost": 10,
+        "mastery": 7,
+        "unlock": null
+      }
+    }
+  }
+}

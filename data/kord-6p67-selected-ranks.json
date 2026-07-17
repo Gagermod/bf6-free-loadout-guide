@@ -1,0 +1,6531 @@
+{
+  "weapon": "kord-6p67",
+  "modes": {
+    "battle-royale": {
+      "1": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING VERTICAL",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "2": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING VERTICAL",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "3": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "4": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "5": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "6": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "RIBBED VERTICAL",
+          "cost": 20,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "7": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "RIBBED VERTICAL",
+          "cost": 20,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "8": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "9": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "10": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "11": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "12": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "13": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "14": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "15": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "16": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "17": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "18": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "19": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "20": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "21": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "22": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "23": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "24": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "25": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "26": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "27": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "28": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "29": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "30": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "31": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "32": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "33": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "34": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "35": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "36": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "37": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "38": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "39": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "40": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "POLYMER CASE",
+          "cost": 10,
+          "mastery": 38,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LIGHTENED SUPPRESSOR",
+          "cost": 30,
+          "mastery": 40,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      }
+    },
+    "ranked": {
+      "1": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING VERTICAL",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "2": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING VERTICAL",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "3": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "4": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "5": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "6": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "RIBBED VERTICAL",
+          "cost": 20,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "7": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "RIBBED VERTICAL",
+          "cost": 20,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "8": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "9": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "10": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "11": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "12": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "13": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "14": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "15": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "16": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "17": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "18": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "19": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "20": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "21": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "22": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "23": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "24": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "25": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "26": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "27": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "28": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "29": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "30": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "31": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "32": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "33": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "34": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "35": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "36": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "37": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "38": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "39": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "Baker 3.00x",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      },
+      "40": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "POLYMER CASE",
+          "cost": 10,
+          "mastery": 38,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LIGHTENED SUPPRESSOR",
+          "cost": 30,
+          "mastery": 40,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "BAKER 3.00X",
+          "cost": 10,
+          "mastery": 8,
+          "unlock": null
+        }
+      }
+    },
+    "big-maps": {
+      "1": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "2": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "3": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "4": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "5": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "6": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "7": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "8": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "9": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "10": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM HANDSTOP",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 FAST",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "11": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "12": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Handstop",
+          "cost": 15,
+          "mastery": 0,
+          "unlock": "SEASON 1 HARDWARE 4"
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND Fast Mag",
+          "cost": 10,
+          "mastery": 4,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "13": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "14": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "15": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "3VZR 1.75x",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        }
+      },
+      "16": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "17": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "18": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "19": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "20": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "21": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "22": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Ribbed Stubby",
+          "cost": 30,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "23": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "24": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "25": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "26": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "27": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "28": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "Taclight - Aimed",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "29": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "30": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "31": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "32": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "33": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "34": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "35": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "36": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "37": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "38": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "39": {
+        "Barrel": {
+          "name": "415mm Fluted",
+          "cost": 20,
+          "mastery": 29,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Slim Angled",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "40": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "SLIM ANGLED",
+          "cost": 25,
+          "mastery": 23,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "POLYMER CASE",
+          "cost": 10,
+          "mastery": 38,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LIGHTENED SUPPRESSOR",
+          "cost": 30,
+          "mastery": 40,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75X",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      }
+    },
+    "small-maps": {
+      "1": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING VERTICAL",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "50 MW VIOLET",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 1"
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "2": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "FOLDING VERTICAL",
+          "cost": 10,
+          "mastery": 1,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "3": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "4": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "5": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "ALLOY VERTICAL",
+          "cost": 20,
+          "mastery": 3,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "6": {
+        "Barrel": {
+          "name": "415MM FACTORY",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "RIBBED VERTICAL",
+          "cost": 20,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "7": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "RIBBED VERTICAL",
+          "cost": 20,
+          "mastery": 6,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "8": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "9": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "10": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 VERTICAL",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "FLASH COMP",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "FLASHLIGHT",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00X",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "11": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "Flashlight",
+          "cost": 10,
+          "mastery": 2,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "12": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Right Accessory": {
+          "name": "5 MW Green",
+          "cost": 10,
+          "mastery": 12,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "30 RND Magazine",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "13": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "5 MW Green",
+          "cost": 10,
+          "mastery": 12,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "14": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "5 MW Green",
+          "cost": 10,
+          "mastery": 12,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "CCO 2.00x",
+          "cost": 10,
+          "mastery": 0,
+          "unlock": null
+        }
+      },
+      "15": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "6H64 Vertical",
+          "cost": 25,
+          "mastery": 8,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Right Accessory": {
+          "name": "5 MW Green",
+          "cost": 10,
+          "mastery": 12,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "3VZR 1.75x",
+          "cost": 10,
+          "mastery": 15,
+          "unlock": null
+        }
+      },
+      "16": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "17": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "18": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "19": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "20": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "21": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "22": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "23": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Flash Comp",
+          "cost": 20,
+          "mastery": 0,
+          "unlock": "SEASON 2 HARDWARE 3"
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "24": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "25": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "26": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "27": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "28": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "29": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "30": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "31": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Standard Suppressor",
+          "cost": 20,
+          "mastery": 24,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "32": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "33": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "34": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "35": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "36": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "37": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "38": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "39": {
+        "Barrel": {
+          "name": "415mm Prototype",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "Classic Vertical",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "Long Suppressor",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND Magazine",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75x",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      },
+      "40": {
+        "Barrel": {
+          "name": "415MM PROTOTYPE",
+          "cost": 10,
+          "mastery": 7,
+          "unlock": null
+        },
+        "Underbarrel": {
+          "name": "CLASSIC VERTICAL",
+          "cost": 35,
+          "mastery": 16,
+          "unlock": null
+        },
+        "Ammunition": {
+          "name": "FMJ",
+          "cost": 5,
+          "mastery": 0,
+          "unlock": null
+        },
+        "Muzzle": {
+          "name": "LONG SUPPRESSOR",
+          "cost": 25,
+          "mastery": 32,
+          "unlock": null
+        },
+        "Magazine": {
+          "name": "36 RND",
+          "cost": 15,
+          "mastery": 13,
+          "unlock": null
+        },
+        "Scope": {
+          "name": "RO-M 1.75X",
+          "cost": 10,
+          "mastery": 16,
+          "unlock": null
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1486 @@
+{
+  "weapon": "m1014",
+  "mode": "small-maps",
+  "loadouts": {
+    "0": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Scope": {
+        "name": "2PRO 1.25x",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "1": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Scope": {
+        "name": "2PRO 1.25x",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "2": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Scope": {
+        "name": "2PRO 1.25x",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "3": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Scope": {
+        "name": "2PRO 1.25x",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "4": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": "SEASON 2 HARDWARE 1"
+      },
+      "Scope": {
+        "name": "2PRO 1.25x",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "5": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "2PRO 1.25x",
+        "cost": 10,
+        "mastery": 1,
+        "unlock": null
+      }
+    },
+    "6": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "7": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "8": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "9": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "10": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "11": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "12": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "13": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "14": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "5 MW Red",
+        "cost": 10,
+        "mastery": 4,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "15": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "16": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "17": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "18": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "R-MR 1.00x",
+        "cost": 10,
+        "mastery": 5,
+        "unlock": null
+      }
+    },
+    "19": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "20": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "21": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "22": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "23": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "24": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "25": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "26": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "27": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "28": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "29": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "30": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "31": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "32": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "33": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Blue",
+        "cost": 20,
+        "mastery": 15,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "34": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "35": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "36": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "37": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "38": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "39": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    },
+    "40": {
+      "Underbarrel": {
+        "name": "Alloy Vertical",
+        "cost": 20,
+        "mastery": 2,
+        "unlock": "SEASON 1 HARDWARE 4"
+      },
+      "Ammunition": {
+        "name": "Buckshot",
+        "cost": 10,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Muzzle": {
+        "name": "Unknown (30)",
+        "cost": 30,
+        "mastery": 0,
+        "unlock": null
+      },
+      "Left Accessory": {
+        "name": "Flashlight",
+        "cost": 10,
+        "mastery": 13,
+        "unlock": null
+      },
+      "Right Accessory": {
+        "name": "50 MW Green",
+        "cost": 20,
+        "mastery": 34,
+        "unlock": null
+      },
+      "Scope": {
+        "name": "Mini Flex 1.00x",
+        "cost": 10,
+        "mastery": 19,
+        "unlock": null
+      }
+    }
+  }
+}
