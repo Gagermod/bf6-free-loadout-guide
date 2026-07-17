@@ -19,7 +19,7 @@ interface WeaponData {
 
 const weapons = loadoutsData as Record<string, WeaponData>;
 const weaponList = Object.entries(weapons)
-  .filter(([_, data]) => data.type !== "Melee")
+  .filter(([, data]) => data.type !== "Melee")
   .map(([slug, data]) => ({
     slug,
     displayName: data.displayName,

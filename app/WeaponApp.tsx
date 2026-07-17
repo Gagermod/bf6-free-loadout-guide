@@ -169,7 +169,7 @@ export default function WeaponApp({
                   </div>
                   {isActive && weaponData && (
                     <div className={styles.itemDetailMobile}>
-                      <WeaponDetail weapon={weaponData} weaponSlug={selectedSlug} modeData={modeData} rank={rank} setRank={setRank} onClose={() => setSelectedSlug(null)} loading={loading} />
+                      <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => setSelectedSlug(null)} loading={loading} />
                     </div>
                   )}
                 </div>
@@ -180,7 +180,7 @@ export default function WeaponApp({
           {selectedSlug && weaponData && (
             <div className={styles.detail}>
               <div className={styles.detailInner}>
-                <WeaponDetail weapon={weaponData} weaponSlug={selectedSlug} modeData={modeData} rank={rank} setRank={setRank} onClose={() => setSelectedSlug(null)} loading={loading} />
+                <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => setSelectedSlug(null)} loading={loading} />
               </div>
             </div>
           )}
@@ -220,9 +220,8 @@ function WeightBar({ loadout }: { loadout: Record<string, LoadoutItem> }) {
   );
 }
 
-function WeaponDetail({ weapon, weaponSlug, modeData, rank, setRank, onClose, loading }: {
+function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
   weapon: WeaponData;
-  weaponSlug: string;
   modeData: ModeLoadouts | null;
   rank: number;
   setRank: (n: number) => void;

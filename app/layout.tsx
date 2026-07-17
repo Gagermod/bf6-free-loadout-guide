@@ -92,6 +92,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
       <head>
+        <title>Free BF6 Loadout Guide — Best Attachments for Every Weapon & Rank</title>
         <link rel="canonical" href={SITE_URL} />
       </head>
       <body>{children}</body>
