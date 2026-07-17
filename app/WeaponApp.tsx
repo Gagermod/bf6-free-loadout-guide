@@ -84,6 +84,15 @@ export default function WeaponApp({
     }
   }, [loadWeapon]);
 
+  const handleSearchChange = useCallback((value: string) => {
+    setSearch(value);
+    if (selectedSlug) {
+      setSelectedSlug(null);
+      setWeaponData(null);
+      setModeData(null);
+    }
+  }, [selectedSlug]);
+
   useEffect(() => {
     if (weaponData) {
       document.title = `${weaponData.displayName} Best Loadout — Free BF6 Guide`;
@@ -130,7 +139,7 @@ export default function WeaponApp({
               type="text"
               placeholder="Search weapons..."
               value={search}
-              onChange={(e) => setSearch(e.target.value)}
+              onChange={(e) => handleSearchChange(e.target.value)}
             />
           </div>
           <div className={styles.filters}>
