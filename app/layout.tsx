@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.scss";
 
-const SITE_URL = "https://bf6loadout.gg";
+const SITE_URL = "https://bf6-free-loadout-guide.vercel.app";
 const SITE_NAME = "BF6 Loadout Guide";
 
 const geistSans = Geist({

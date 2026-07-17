@@ -101,7 +101,7 @@ export default function WeaponApp({
             "@context": "https://schema.org",
             "@type": "WebApplication",
             name: "BF6 Loadout Guide",
-            url: "https://bf6loadout.gg",
+            url: "https://bf6-free-loadout-guide.vercel.app",
             description: "Free Battlefield 6 loadout builder. See the best attachments for every weapon at every rank. No account needed.",
             applicationCategory: "GameApplication",
             operatingSystem: "Web",

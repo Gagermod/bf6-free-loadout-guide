@@ -8,9 +8,9 @@
 
 ## Links
 
-- [Homepage](https://bf6loadout.gg)
-- [Weapon loadout API](https://bf6loadout.gg/api/loadout/pp-19)
-- [Weapon metadata API](https://bf6loadout.gg/api/weapon/pp-19)
+- [Homepage](https://bf6-free-loadout-guide.vercel.app)
+- [Weapon loadout API](https://bf6-free-loadout-guide.vercel.app/api/loadout/pp-19)
+- [Weapon metadata API](https://bf6-free-loadout-guide.vercel.app/api/weapon/pp-19)
 
 ## API Reference
 
@@ -20,7 +20,7 @@ GET /api/loadout/{weapon-slug}
 
 Returns all mode loadout data (rank 1-40 for battle-royale, ranked, big-maps, small-maps).
 
-Example: [GET /api/loadout/pp-19](https://bf6loadout.gg/api/loadout/pp-19)
+Example: [GET /api/loadout/pp-19](https://bf6-free-loadout-guide.vercel.app/api/loadout/pp-19)
 
 ### Get weapon metadata
 
@@ -28,7 +28,7 @@ GET /api/weapon/{weapon-slug}
 
 Returns weapon display name, type, image URL, and default loadouts.
 
-Example: [GET /api/weapon/pp-19](https://bf6loadout.gg/api/weapon/pp-19)
+Example: [GET /api/weapon/pp-19](https://bf6-free-loadout-guide.vercel.app/api/weapon/pp-19)
 
 ### Weapon slugs
 

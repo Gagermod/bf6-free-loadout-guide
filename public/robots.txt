@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://bf6loadout.gg/sitemap.xml
+Sitemap: https://bf6-free-loadout-guide.vercel.app/sitemap.xml
