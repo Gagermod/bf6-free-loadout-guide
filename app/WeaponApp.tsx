@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef, useEffect, useCallback } from "react";
+import { useState, useRef, useEffect, useCallback, useMemo } from "react";
 import Image from "next/image";
 import styles from "./page.module.scss";
 
@@ -58,19 +58,26 @@ export default function WeaponApp({
     return matchesSearch && matchesType;
   });
 
+  const abortRef = useRef<AbortController | null>(null);
+
   const loadWeapon = useCallback(async (slug: string) => {
+    abortRef.current?.abort();
+    const controller = new AbortController();
+    abortRef.current = controller;
     setLoading(true);
+    setWeaponData(null);
+    setModeData(null);
     try {
       const [loadoutRes, modeRes] = await Promise.all([
-        fetch(`/api/weapon/${slug}`),
-        fetch(`/api/loadout/${slug}`),
+        fetch(`/api/weapon/${slug}`, { signal: controller.signal }),
+        fetch(`/api/loadout/${slug}`, { signal: controller.signal }),
       ]);
       if (loadoutRes.ok) setWeaponData(await loadoutRes.json());
       if (modeRes.ok) setModeData(await modeRes.json());
     } catch {
-      // fallback
+      // aborted or failed
     }
-    setLoading(false);
+    if (!controller.signal.aborted) setLoading(false);
   }, []);
 
   const handleSelectWeapon = useCallback((slug: string | null) => {
@@ -79,6 +86,7 @@ export default function WeaponApp({
     if (slug) {
       loadWeapon(slug);
     } else {
+      abortRef.current?.abort();
       setWeaponData(null);
       setModeData(null);
     }
@@ -160,7 +168,9 @@ export default function WeaponApp({
             {filtered.map((w) => {
               const isActive = selectedSlug === w.slug;
               return (
-                <div key={w.slug}>
+                <div key={w.slug} ref={isActive ? (el) => {
+                  if (el) el.scrollIntoView({ block: "start", behavior: "smooth" });
+                } : undefined}>
                   <div
                     className={`${styles.item} ${isActive ? styles.itemActive : ""}`}
                     onClick={() => handleSelectWeapon(isActive ? null : w.slug)}
@@ -178,7 +188,7 @@ export default function WeaponApp({
                       </svg>
                     </div>
                   </div>
-                  {isActive && weaponData && (
+                  {isActive && (
                     <div className={styles.itemDetailMobile}>
                       <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => handleSelectWeapon(null)} loading={loading} />
                     </div>
@@ -188,7 +198,7 @@ export default function WeaponApp({
             })}
           </div>
 
-          {selectedSlug && weaponData && (
+          {selectedSlug && (
             <div className={styles.detail}>
               <div className={styles.detailInner}>
                 <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => handleSelectWeapon(null)} loading={loading} />
@@ -232,7 +242,7 @@ function WeightBar({ loadout }: { loadout: Record<string, LoadoutItem> }) {
 }
 
 function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
-  weapon: WeaponData;
+  weapon: WeaponData | null;
   modeData: ModeLoadouts | null;
   rank: number;
   setRank: (n: number) => void;
@@ -249,14 +259,14 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
   const modeKey = mode === "multiplayer" ? subMode : mode;
   const modeLoadout = modeData?.[modeKey];
 
-  let loadout: Record<string, LoadoutItem>;
-  if (modeLoadout) {
-    loadout = modeLoadout[rank] || {};
-  } else {
-    loadout = weapon.loadouts?.[rank] || {};
-  }
+  const loadout = useMemo<Record<string, LoadoutItem>>(() => {
+    if (!weapon) return {};
+    if (modeLoadout) return modeLoadout[rank] || {};
+    return weapon.loadouts?.[rank] || {};
+  }, [weapon, modeLoadout, rank]);
 
   useEffect(() => {
+    if (!weapon) return;
     const prevLoadout = prevLoadoutRef.current;
     const changes: Record<string, "changed" | "new" | "removed"> = {};
 
@@ -277,7 +287,23 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
       });
     }
     prevLoadoutRef.current = { ...loadout };
-  }, [loadout]);
+  }, [loadout, weapon]);
+
+  if (loading || !weapon) {
+    return (
+      <div className={styles.detailHeader}>
+        <div className={styles.detailTitleRow}>
+          <div className={styles.detailName} style={{ width: 200, height: 24, background: "var(--muted)", borderRadius: 6 }} />
+          <button className={styles.closeBtn} onClick={onClose}>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M18 6 6 18" /><path d="m6 6 12 12" />
+            </svg>
+          </button>
+        </div>
+        <div className={styles.noDataMessage}><p>Loading...</p></div>
+      </div>
+    );
+  }
 
   return (
     <>
