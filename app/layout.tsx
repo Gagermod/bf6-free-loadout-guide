@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import siteMeta from "../data/_site-meta.json";
 import "./globals.scss";
 
 const SITE_URL = "https://bf6-free-loadout-guide.vercel.app";
 const SITE_NAME = "BF6 Loadout Guide";
+
+const description = `Free Battlefield 6 loadout builder. See the best attachments for every weapon at every rank. No account needed. Updated for ${siteMeta.season}.`;
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -20,15 +23,14 @@ export const metadata: Metadata = {
     default: "Free BF6 Loadout Guide — Best Attachments for Every Weapon & Rank",
     template: "%s | BF6 Loadout Guide",
   },
-  description:
-    "Free Battlefield 6 loadout builder. See the best attachments for every weapon at every rank. No account needed. Updated for Season 3.",
+  description,
   keywords: [
     "battlefield 6",
     "bf6",
     "loadout",
     "best attachments",
     "weapon builds",
-    "season 3",
+    siteMeta.season.toLowerCase(),
     "meta",
     "ranked",
     "battle royale",
@@ -49,23 +51,12 @@ export const metadata: Metadata = {
     url: SITE_URL,
     siteName: SITE_NAME,
     title: "Free BF6 Loadout Guide — Best Attachments for Every Weapon & Rank",
-    description:
-      "Free Battlefield 6 loadout builder. See the best attachments for every weapon at every rank. No account needed. Updated for Season 3.",
-    images: [
-      {
-        url: `${SITE_URL}/og-image.png`,
-        width: 1200,
-        height: 630,
-        alt: "BF6 Loadout Guide — Free weapon builds for Battlefield 6",
-      },
-    ],
+    description,
   },
   twitter: {
     card: "summary_large_image",
     title: "Free BF6 Loadout Guide — Best Attachments for Every Weapon & Rank",
-    description:
-      "Free Battlefield 6 loadout builder. See the best attachments for every weapon at every rank.",
-    images: [`${SITE_URL}/og-image.png`],
+    description,
   },
   robots: {
     index: true,
@@ -91,10 +82,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
-      <head>
-        <title>Free BF6 Loadout Guide — Best Attachments for Every Weapon & Rank</title>
-        <link rel="canonical" href={SITE_URL} />
-      </head>
       <body>{children}</body>
     </html>
   );
