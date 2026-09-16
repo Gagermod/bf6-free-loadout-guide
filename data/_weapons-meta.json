@@ -1,0 +1,297 @@
+{
+  "185ks-k": {
+    "displayName": "18.5KS-K",
+    "type": "Shotgun",
+    "image": "https://img.battlefieldmeta.gg/185ks-k_version2/gunFullDisplay"
+  },
+  "ak-205": {
+    "displayName": "AK-205",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/ak-205_version2/gunFullDisplay"
+  },
+  "ak4d": {
+    "displayName": "AK4D",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/ak4d_version5/gunFullDisplay"
+  },
+  "b36a4": {
+    "displayName": "B36A4",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/b36a4_version1/gunFullDisplay"
+  },
+  "cz3a1": {
+    "displayName": "CZ3A1",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/cz3a1/gunFullDisplay"
+  },
+  "db-12": {
+    "displayName": "DB-12",
+    "type": "Shotgun",
+    "image": "https://img.battlefieldmeta.gg/db-12_version1/gunFullDisplay"
+  },
+  "drs-iar": {
+    "displayName": "DRS-IAR",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/drs-iar_version2/gunFullDisplay"
+  },
+  "es57": {
+    "displayName": "ES 5.7",
+    "type": "Secondary",
+    "image": "https://img.battlefieldmeta.gg/es57_version2/gunFullDisplay"
+  },
+  "ggh-22": {
+    "displayName": "GGH-22",
+    "type": "Secondary",
+    "image": "https://img.battlefieldmeta.gg/ggh-22_version1/gunFullDisplay"
+  },
+  "grt-bc": {
+    "displayName": "GRT-BC",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/grt-bc_version2/gunFullDisplay"
+  },
+  "grt-cps": {
+    "displayName": "GRT-CPS",
+    "type": "DMR",
+    "image": "https://img.battlefieldmeta.gg/grt-cps/gunFullDisplay"
+  },
+  "kord-6p67": {
+    "displayName": "KORD 6P67",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/kord-6p67_version2/gunFullDisplay"
+  },
+  "kts100-mk8": {
+    "displayName": "KTS100 MK8",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/kts100-mk8_version1/gunFullDisplay"
+  },
+  "kv9": {
+    "displayName": "KV9",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/kv9_version2/gunFullDisplay"
+  },
+  "l110": {
+    "displayName": "L110",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/l110_version1/gunFullDisplay"
+  },
+  "l115": {
+    "displayName": "L115",
+    "type": "Sniper Rifle",
+    "image": "https://img.battlefieldmeta.gg/l115/gunFullDisplay"
+  },
+  "l85a3": {
+    "displayName": "L85A3",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/l85a3_version2/gunFullDisplay"
+  },
+  "lmr27": {
+    "displayName": "LMR27",
+    "type": "DMR",
+    "image": "https://img.battlefieldmeta.gg/lmr27_version2/gunFullDisplay"
+  },
+  "m-60": {
+    "displayName": "M60",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/m60_version2/gunFullDisplay"
+  },
+  "m1014": {
+    "displayName": "M1014",
+    "type": "Shotgun",
+    "image": "https://img.battlefieldmeta.gg/m1014_version2/gunFullDisplay"
+  },
+  "m121-a2": {
+    "displayName": "M121 A2",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/m121-a2/gunFullDisplay"
+  },
+  "m123k": {
+    "displayName": "M123K",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/m123k_version2/gunFullDisplay"
+  },
+  "m16a4": {
+    "displayName": "M16A4",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/m16a4/gunFullDisplay"
+  },
+  "m2010-esr": {
+    "displayName": "M2010 ESR",
+    "type": "Sniper Rifle",
+    "image": "https://img.battlefieldmeta.gg/m2010-esr_version2/gunFullDisplay"
+  },
+  "m240l": {
+    "displayName": "M240L",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/m240l_version2/gunFullDisplay"
+  },
+  "m250": {
+    "displayName": "M250",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/m250_version2/gunFullDisplay"
+  },
+  "m277": {
+    "displayName": "M277",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/m277_version2/gunFullDisplay"
+  },
+  "m357-trait": {
+    "displayName": "M357 TRAIT",
+    "type": "Secondary",
+    "image": "https://img.battlefieldmeta.gg/m357-trait/gunFullDisplay"
+  },
+  "m39-emr": {
+    "displayName": "M39 EMR",
+    "type": "DMR",
+    "image": "https://img.battlefieldmeta.gg/m39-emr_version1/gunFullDisplay"
+  },
+  "m417-a2": {
+    "displayName": "M417 A2",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/m417-a2_version1/gunFullDisplay"
+  },
+  "m433": {
+    "displayName": "M433",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/m433_version2/gunFullDisplay"
+  },
+  "m44": {
+    "displayName": "M44",
+    "type": "Secondary",
+    "image": "https://img.battlefieldmeta.gg/m44_version2/gunFullDisplay"
+  },
+  "m45a1": {
+    "displayName": "M45A1",
+    "type": "Secondary",
+    "image": "https://img.battlefieldmeta.gg/m45a1_version2/gunFullDisplay"
+  },
+  "m4a1": {
+    "displayName": "M4A1",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/m4a1_version1/gunFullDisplay"
+  },
+  "m87a1": {
+    "displayName": "M87A1",
+    "type": "Shotgun",
+    "image": "https://img.battlefieldmeta.gg/m87a1_version2/gunFullDisplay"
+  },
+  "mini-scout": {
+    "displayName": "MINI SCOUT",
+    "type": "Sniper Rifle",
+    "image": "https://img.battlefieldmeta.gg/mini-scout_version1/gunFullDisplay"
+  },
+  "nvo-228e": {
+    "displayName": "NVO-228E",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/nvo-228e_version2/gunFullDisplay"
+  },
+  "p18": {
+    "displayName": "P18",
+    "type": "Secondary",
+    "image": "https://img.battlefieldmeta.gg/p18_version1/gunFullDisplay"
+  },
+  "pp-19": {
+    "displayName": "PP-19",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/pp-19/gunFullDisplay"
+  },
+  "psr": {
+    "displayName": "PSR",
+    "type": "Sniper Rifle",
+    "image": "https://img.battlefieldmeta.gg/psr_version2/gunFullDisplay"
+  },
+  "pw5a3": {
+    "displayName": "PW5A3",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/pw5a3_version2/gunFullDisplay"
+  },
+  "pw7a2": {
+    "displayName": "PW7A2",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/pw7a2_version2/gunFullDisplay"
+  },
+  "qbz-192": {
+    "displayName": "QBZ-192",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/qbz-192_version2/gunFullDisplay"
+  },
+  "rpk-74m": {
+    "displayName": "RPK-74M",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/rpk-74m/gunFullDisplay"
+  },
+  "rpkm": {
+    "displayName": "RPKM",
+    "type": "LMG",
+    "image": "https://img.battlefieldmeta.gg/rpkm_version2/gunFullDisplay"
+  },
+  "scw-10": {
+    "displayName": "SCW-10",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/scw-10_version2/gunFullDisplay"
+  },
+  "sg-553r": {
+    "displayName": "SG-553R",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/sg-553r_version2/gunFullDisplay"
+  },
+  "sgx": {
+    "displayName": "SGX",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/sgx_version2/gunFullDisplay"
+  },
+  "sl9": {
+    "displayName": "SL9",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/sl9_version2/gunFullDisplay"
+  },
+  "sor-300sc": {
+    "displayName": "SOR-300SC",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/sor-300sc_version1/gunFullDisplay"
+  },
+  "sor-556-mk2": {
+    "displayName": "SOR-556 MK2",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/sor-556-mk2_version2/gunFullDisplay"
+  },
+  "sv-98": {
+    "displayName": "SV-98",
+    "type": "Sniper Rifle",
+    "image": "https://img.battlefieldmeta.gg/sv-98_version2/gunFullDisplay"
+  },
+  "svdm": {
+    "displayName": "SVDM",
+    "type": "DMR",
+    "image": "https://img.battlefieldmeta.gg/svdm_version2/gunFullDisplay"
+  },
+  "svk-8-6": {
+    "displayName": "SVK-8.6",
+    "type": "DMR",
+    "image": "https://img.battlefieldmeta.gg/svk-86_version2/gunFullDisplay"
+  },
+  "tr-7": {
+    "displayName": "TR-7",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/tr-7_version2/gunFullDisplay"
+  },
+  "umg-40": {
+    "displayName": "UMG-40",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/umg-40_version2/gunFullDisplay"
+  },
+  "usg-90": {
+    "displayName": "USG-90",
+    "type": "SMG",
+    "image": "https://img.battlefieldmeta.gg/usg-90_version2/gunFullDisplay"
+  },
+  "vcr-2": {
+    "displayName": "VCR-2",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/vcr-2/gunFullDisplay"
+  },
+  "vz-61": {
+    "displayName": "vz. 61",
+    "type": "Secondary",
+    "image": "https://img.battlefieldmeta.gg/vz-61/gunFullDisplay"
+  }
+}

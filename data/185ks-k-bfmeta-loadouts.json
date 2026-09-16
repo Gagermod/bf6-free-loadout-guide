@@ -1,0 +1,7220 @@
+{
+  "weapon": "185ks-k",
+  "modes": {
+    "battle-royale": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ]
+    },
+    "ranked": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ]
+    },
+    "big-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ]
+    },
+    "small-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "80/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "90/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "100/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "430MM CUT"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "430MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "4 RND"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 20,
+              "name": "SU-230 LPVO"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "name": "430MM CUT",
+      "slot": "Barrel",
+      "level": 0
+    },
+    {
+      "name": "50 MW VIOLET",
+      "slot": "Right Accessory",
+      "level": 0
+    },
+    {
+      "name": "8 RND",
+      "slot": "Magazine",
+      "level": 0
+    },
+    {
+      "name": "8RND MAGAZINE",
+      "slot": "Magazine",
+      "level": 0
+    },
+    {
+      "name": "BUCKSHOT",
+      "slot": "Ammunition",
+      "level": 0
+    },
+    {
+      "name": "FLASH HIDER",
+      "slot": "Muzzle",
+      "level": 0
+    },
+    {
+      "name": "FLASHLIGHT",
+      "slot": "Left Accessory",
+      "level": 0
+    },
+    {
+      "name": "OSA-7 1.00X",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "SLIM HANDSTOP",
+      "slot": "Underbarrel",
+      "level": 0
+    },
+    {
+      "name": "SU-230 LPVO",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "TH-RDS 1.00X",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "2PRO 1.25X",
+      "slot": "Scope",
+      "level": 1
+    },
+    {
+      "name": "IRON SIGHTS",
+      "slot": "Scope",
+      "level": 1
+    },
+    {
+      "name": "ALLOY VERTICAL",
+      "slot": "Underbarrel",
+      "level": 2
+    },
+    {
+      "name": "CCO 2.00X",
+      "slot": "Scope",
+      "level": 2
+    },
+    {
+      "name": "R4T 2.00X",
+      "slot": "Scope",
+      "level": 3
+    },
+    {
+      "name": "5 MW RED",
+      "slot": "Right Accessory",
+      "level": 4
+    },
+    {
+      "name": "R-MR 1.00X",
+      "slot": "Scope",
+      "level": 5
+    },
+    {
+      "name": "RIBBED STUBBY",
+      "slot": "Underbarrel",
+      "level": 5
+    },
+    {
+      "name": "4 RND",
+      "slot": "Magazine",
+      "level": 6
+    },
+    {
+      "name": "A-P2 1.75X",
+      "slot": "Scope",
+      "level": 7
+    },
+    {
+      "name": "STIPPLED STUBBY",
+      "slot": "Underbarrel",
+      "level": 7
+    },
+    {
+      "name": "SLUGS",
+      "slot": "Ammunition",
+      "level": 8
+    },
+    {
+      "name": "PVQ-31 4.00X",
+      "slot": "Scope",
+      "level": 9
+    },
+    {
+      "name": "RO-M 1.75X",
+      "slot": "Scope",
+      "level": 10
+    },
+    {
+      "name": "SLIM ANGLED",
+      "slot": "Underbarrel",
+      "level": 10
+    },
+    {
+      "name": "CANTED IRON SIGHTS",
+      "slot": "Optic Accessory",
+      "level": 12
+    },
+    {
+      "name": "CQ RDS 1.25X",
+      "slot": "Scope",
+      "level": 12
+    },
+    {
+      "name": "DOUBLE-PORT BRAKE",
+      "slot": "Muzzle",
+      "level": 13
+    },
+    {
+      "name": "FOLDING VERTICAL",
+      "slot": "Underbarrel",
+      "level": 14
+    },
+    {
+      "name": "SF-G2 5.00X",
+      "slot": "Scope",
+      "level": 14
+    },
+    {
+      "name": "50 MW BLUE",
+      "slot": "Right Accessory",
+      "level": 15
+    },
+    {
+      "name": "BAKER 3.00X",
+      "slot": "Scope",
+      "level": 16
+    },
+    {
+      "name": "FOLDING STUBBY",
+      "slot": "Underbarrel",
+      "level": 17
+    },
+    {
+      "name": "GRIM 1.50X",
+      "slot": "Scope",
+      "level": 17
+    },
+    {
+      "name": "CQB SUPPRESSOR",
+      "slot": "Muzzle",
+      "level": 18
+    },
+    {
+      "name": "MINI FLEX 1.00X",
+      "slot": "Scope",
+      "level": 19
+    },
+    {
+      "name": "8 FAST",
+      "slot": "Magazine",
+      "level": 20
+    },
+    {
+      "name": "8RND FAST MAG",
+      "slot": "Magazine",
+      "level": 20
+    },
+    {
+      "name": "3VZR 1.75X",
+      "slot": "Scope",
+      "level": 21
+    },
+    {
+      "name": "6H64 VERTICAL",
+      "slot": "Underbarrel",
+      "level": 21
+    },
+    {
+      "name": "5 MW GREEN",
+      "slot": "Right Accessory",
+      "level": 22
+    },
+    {
+      "name": "BF-2M 2.50X",
+      "slot": "Scope",
+      "level": 23
+    },
+    {
+      "name": "CANTED REFLEX",
+      "slot": "Optic Accessory",
+      "level": 23
+    },
+    {
+      "name": "CANTED STUBBY",
+      "slot": "Underbarrel",
+      "level": 24
+    },
+    {
+      "name": "LDS 4.50X",
+      "slot": "Scope",
+      "level": 25
+    },
+    {
+      "name": "FLECHETTE",
+      "slot": "Ammunition",
+      "level": 26
+    },
+    {
+      "name": "RO-S 1.25X",
+      "slot": "Scope",
+      "level": 27
+    },
+    {
+      "name": "RIBBED VERTICAL",
+      "slot": "Underbarrel",
+      "level": 28
+    },
+    {
+      "name": "SDO 3.50X",
+      "slot": "Scope",
+      "level": 28
+    },
+    {
+      "name": "430MM FACTORY",
+      "slot": "Barrel",
+      "level": 29
+    },
+    {
+      "name": "SU-123 1.50X",
+      "slot": "Scope",
+      "level": 30
+    },
+    {
+      "name": "CLASSIC VERTICAL",
+      "slot": "Underbarrel",
+      "level": 31
+    },
+    {
+      "name": "ST PRISIM 5.00X",
+      "slot": "Scope",
+      "level": 32
+    },
+    {
+      "name": "4 FAST",
+      "slot": "Magazine",
+      "level": 33
+    },
+    {
+      "name": "4RND FAST MAG",
+      "slot": "Magazine",
+      "level": 33
+    },
+    {
+      "name": "LOW-PROFILE STUBBY",
+      "slot": "Underbarrel",
+      "level": 34
+    },
+    {
+      "name": "ROX 1.50X",
+      "slot": "Scope",
+      "level": 34
+    },
+    {
+      "name": "50 MW GREEN",
+      "slot": "Right Accessory",
+      "level": 35
+    },
+    {
+      "name": "PAS-35 3.00X",
+      "slot": "Scope",
+      "level": 36
+    },
+    {
+      "name": "LIGHTENED SUPPRESSOR",
+      "slot": "Muzzle",
+      "level": 37
+    },
+    {
+      "name": "MARS-F LPVO",
+      "slot": "Scope",
+      "level": 37
+    },
+    {
+      "name": "FULL ANGLED",
+      "slot": "Underbarrel",
+      "level": 38
+    },
+    {
+      "name": "1P87 1.50X",
+      "slot": "Scope",
+      "level": 39
+    },
+    {
+      "name": "120 MW BLUE",
+      "slot": "Right Accessory",
+      "level": 40
+    }
+  ]
+}

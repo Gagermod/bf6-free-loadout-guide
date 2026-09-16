@@ -1,0 +1,7215 @@
+{
+  "weapon": "m87a1",
+  "modes": {
+    "battle-royale": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "75/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "75/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "ranked": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "75/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "75/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "big-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "75/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "75/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "small-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "50 MW VIOLET"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "55/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "70/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "65/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "75/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "75/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "85/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 25,
+              "name": "SLIM ANGLED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW BLUE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Left Accessory",
+              "cost": 10,
+              "name": "FLASHLIGHT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "95/100",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "20\" FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 15,
+              "name": "SLIM HANDSTOP"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 10,
+              "name": "BUCKSHOT"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 30,
+              "name": "CQB SUPPRESSOR"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "7 SHELL TUBE"
+            },
+            {
+              "slot": "Right Accessory",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "name": "20\" FACTORY",
+      "slot": "Barrel",
+      "level": 0
+    },
+    {
+      "name": "20\" FACTORY",
+      "slot": "Barrel",
+      "level": 0
+    },
+    {
+      "name": "50 MW VIOLET",
+      "slot": "Right Accessory",
+      "level": 0
+    },
+    {
+      "name": "7 SHELL TUBE",
+      "slot": "Magazine",
+      "level": 0
+    },
+    {
+      "name": "7 SHELL TUBE",
+      "slot": "Magazine",
+      "level": 0
+    },
+    {
+      "name": "BUCKSHOT",
+      "slot": "Ammunition",
+      "level": 0
+    },
+    {
+      "name": "IRON SIGHTS",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "SLIM HANDSTOP",
+      "slot": "Underbarrel",
+      "level": 0
+    },
+    {
+      "name": "SU-230 LPVO",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "TH-RDS 1.00X",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "2PRO 1.25X",
+      "slot": "Scope",
+      "level": 1
+    },
+    {
+      "name": "ALLOY VERTICAL",
+      "slot": "Underbarrel",
+      "level": 2
+    },
+    {
+      "name": "CCO 2.00X",
+      "slot": "Scope",
+      "level": 2
+    },
+    {
+      "name": "R4T 2.00X",
+      "slot": "Scope",
+      "level": 3
+    },
+    {
+      "name": "5 MW RED",
+      "slot": "Right Accessory",
+      "level": 4
+    },
+    {
+      "name": "R-MR 1.00X",
+      "slot": "Scope",
+      "level": 5
+    },
+    {
+      "name": "RIBBED STUBBY",
+      "slot": "Underbarrel",
+      "level": 5
+    },
+    {
+      "name": "5 SHELL TUBE",
+      "slot": "Magazine",
+      "level": 6
+    },
+    {
+      "name": "5 SHELL TUBE",
+      "slot": "Magazine",
+      "level": 6
+    },
+    {
+      "name": "A-P2 1.75X",
+      "slot": "Scope",
+      "level": 7
+    },
+    {
+      "name": "STIPPLED STUBBY",
+      "slot": "Underbarrel",
+      "level": 7
+    },
+    {
+      "name": "SLUGS",
+      "slot": "Ammunition",
+      "level": 8
+    },
+    {
+      "name": "PVQ-31 4.00X",
+      "slot": "Scope",
+      "level": 9
+    },
+    {
+      "name": "SLIM ANGLED",
+      "slot": "Underbarrel",
+      "level": 10
+    },
+    {
+      "name": "RO-M 1.75X",
+      "slot": "Scope",
+      "level": 11
+    },
+    {
+      "name": "CQ RDS 1.25X",
+      "slot": "Scope",
+      "level": 12
+    },
+    {
+      "name": "FLASHLIGHT",
+      "slot": "Left Accessory",
+      "level": 13
+    },
+    {
+      "name": "FOLDING VERTICAL",
+      "slot": "Underbarrel",
+      "level": 14
+    },
+    {
+      "name": "SF-G2 5.00X",
+      "slot": "Scope",
+      "level": 14
+    },
+    {
+      "name": "50 MW BLUE",
+      "slot": "Right Accessory",
+      "level": 15
+    },
+    {
+      "name": "BAKER 3.00X",
+      "slot": "Scope",
+      "level": 16
+    },
+    {
+      "name": "FOLDING STUBBY",
+      "slot": "Underbarrel",
+      "level": 17
+    },
+    {
+      "name": "GRIM 1.50X",
+      "slot": "Scope",
+      "level": 17
+    },
+    {
+      "name": "CQB SUPPRESSOR",
+      "slot": "Muzzle",
+      "level": 18
+    },
+    {
+      "name": "ADJUSTABLE ANGLED",
+      "slot": "Underbarrel",
+      "level": 19
+    },
+    {
+      "name": "MINI FLEX 1.00X",
+      "slot": "Scope",
+      "level": 19
+    },
+    {
+      "name": "3VZR 1.75X",
+      "slot": "Scope",
+      "level": 20
+    },
+    {
+      "name": "6H64 VERTICAL",
+      "slot": "Underbarrel",
+      "level": 21
+    },
+    {
+      "name": "OSA-7 1.00X",
+      "slot": "Scope",
+      "level": 21
+    },
+    {
+      "name": "5 MW GREEN",
+      "slot": "Right Accessory",
+      "level": 22
+    },
+    {
+      "name": "BF-2M 2.50X",
+      "slot": "Scope",
+      "level": 23
+    },
+    {
+      "name": "CANTED STUBBY",
+      "slot": "Underbarrel",
+      "level": 24
+    },
+    {
+      "name": "LDS 4.50X",
+      "slot": "Scope",
+      "level": 25
+    },
+    {
+      "name": "FLECHETTE",
+      "slot": "Ammunition",
+      "level": 26
+    },
+    {
+      "name": "RO-S 1.25X",
+      "slot": "Scope",
+      "level": 27
+    },
+    {
+      "name": "RIBBED VERTICAL",
+      "slot": "Underbarrel",
+      "level": 28
+    },
+    {
+      "name": "SDO 3.50X",
+      "slot": "Scope",
+      "level": 29
+    },
+    {
+      "name": "SU-123 1.50X",
+      "slot": "Scope",
+      "level": 30
+    },
+    {
+      "name": "CLASSIC VERTICAL",
+      "slot": "Underbarrel",
+      "level": 31
+    },
+    {
+      "name": "ST PRISIM 5.00X",
+      "slot": "Scope",
+      "level": 32
+    },
+    {
+      "name": "6 RND",
+      "slot": "Magazine",
+      "level": 33
+    },
+    {
+      "name": "LOW-PROFILE STUBBY",
+      "slot": "Underbarrel",
+      "level": 34
+    },
+    {
+      "name": "ROX 1.50X",
+      "slot": "Scope",
+      "level": 34
+    },
+    {
+      "name": "50 MW GREEN",
+      "slot": "Right Accessory",
+      "level": 35
+    },
+    {
+      "name": "PAS-35 3.00X",
+      "slot": "Scope",
+      "level": 36
+    },
+    {
+      "name": "LIGHTENED SUPPRESSOR",
+      "slot": "Muzzle",
+      "level": 37
+    },
+    {
+      "name": "MARS-F LPVO",
+      "slot": "Scope",
+      "level": 37
+    },
+    {
+      "name": "FULL ANGLED",
+      "slot": "Underbarrel",
+      "level": 38
+    },
+    {
+      "name": "1P87 1.50X",
+      "slot": "Scope",
+      "level": 39
+    },
+    {
+      "name": "120 MW BLUE",
+      "slot": "Right Accessory",
+      "level": 40
+    }
+  ]
+}

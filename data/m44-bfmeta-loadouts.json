@@ -1,0 +1,4660 @@
+{
+  "weapon": "m44",
+  "modes": {
+    "battle-royale": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "ranked": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "big-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "small-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "25/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "6.75\" FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "20/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "35/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 5,
+              "name": "8.37\" LONG"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "6RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "name": "6.75\" FACTORY",
+      "slot": "Barrel",
+      "level": 0
+    },
+    {
+      "name": "6RND SPEEDLOADER",
+      "slot": "Magazine",
+      "level": 0
+    },
+    {
+      "name": "FMJ",
+      "slot": "Ammunition",
+      "level": 0
+    },
+    {
+      "name": "GUNSLINGER",
+      "slot": "Ergonomics",
+      "level": 0
+    },
+    {
+      "name": "IRON SIGHTS",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "SPEED HOLSTER",
+      "slot": "Ergonomics",
+      "level": 0
+    },
+    {
+      "name": "SU-230 LPVO",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "OSA-7 1.00X",
+      "slot": "Scope",
+      "level": 1
+    },
+    {
+      "name": "CCO 2.00X",
+      "slot": "Scope",
+      "level": 2
+    },
+    {
+      "name": "BAKER 3.00X",
+      "slot": "Scope",
+      "level": 3
+    },
+    {
+      "name": "MINI FLEX 1.00X",
+      "slot": "Scope",
+      "level": 4
+    },
+    {
+      "name": "8.37\" LONG",
+      "slot": "Barrel",
+      "level": 5
+    },
+    {
+      "name": "SU-123 1.50X",
+      "slot": "Scope",
+      "level": 6
+    },
+    {
+      "name": "3VZR 1.75X",
+      "slot": "Scope",
+      "level": 7
+    },
+    {
+      "name": "CQ RDS 1.25X",
+      "slot": "Scope",
+      "level": 8
+    },
+    {
+      "name": "SDO 3.50X",
+      "slot": "Scope",
+      "level": 9
+    },
+    {
+      "name": "TUNGSTEN CORE",
+      "slot": "Ammunition",
+      "level": 10
+    },
+    {
+      "name": "2PRO 1.25X",
+      "slot": "Scope",
+      "level": 11
+    },
+    {
+      "name": "1P87 1.50X",
+      "slot": "Scope",
+      "level": 12
+    },
+    {
+      "name": "BF-2M 2.50X",
+      "slot": "Scope",
+      "level": 13
+    },
+    {
+      "name": "5.12\" COMPACT",
+      "slot": "Barrel",
+      "level": 14
+    },
+    {
+      "name": "FRANGIBLE",
+      "slot": "Ammunition",
+      "level": 14
+    },
+    {
+      "name": "RO-M 1.75X",
+      "slot": "Scope",
+      "level": 15
+    },
+    {
+      "name": "RO-S 1.25X",
+      "slot": "Scope",
+      "level": 16
+    },
+    {
+      "name": "R4T 2.00X",
+      "slot": "Scope",
+      "level": 17
+    },
+    {
+      "name": "ST PRISIM 5.00X",
+      "slot": "Scope",
+      "level": 18
+    },
+    {
+      "name": "PVQ-31 4.00X",
+      "slot": "Scope",
+      "level": 20
+    },
+    {
+      "name": "A-P2 1.75X",
+      "slot": "Scope",
+      "level": 21
+    },
+    {
+      "name": "LDS 4.50X",
+      "slot": "Scope",
+      "level": 22
+    },
+    {
+      "name": "SF-G2 5.00X",
+      "slot": "Scope",
+      "level": 23
+    },
+    {
+      "name": "HOLLOW POINT",
+      "slot": "Ammunition",
+      "level": 24
+    },
+    {
+      "name": "R-MR 1.00X",
+      "slot": "Scope",
+      "level": 25
+    },
+    {
+      "name": "ROX 1.50X",
+      "slot": "Scope",
+      "level": 26
+    }
+  ]
+}

@@ -4,20 +4,25 @@ import { useState, useRef, useEffect, useCallback, useMemo } from "react";
 import Image from "next/image";
 import styles from "./page.module.scss";
 
-interface LoadoutItem {
-  name: string;
+interface CardAttach {
+  slot: string;
   cost: number;
-  mastery: number;
-  unlock?: string | null;
+  name: string;
 }
 
-interface WeaponData {
-  displayName: string;
-  type: string;
-  image?: string;
-  stats: Record<string, string | null>;
-  loadouts: Record<number, Record<string, LoadoutItem>>;
-  noData?: boolean;
+interface LoadoutCard {
+  title: string;
+  budget: string;
+  attachments: CardAttach[];
+}
+
+interface WeaponModeData {
+  modes: Record<string, Record<string, LoadoutCard[]>>;
+  attachments: { name: string; slot: string; level: number | null }[];
+}
+
+interface WeaponData extends WeaponModeData {
+  weapon: string;
 }
 
 interface WeaponListItem {
@@ -27,29 +32,43 @@ interface WeaponListItem {
   image?: string;
 }
 
-interface ModeLoadouts {
-  [mode: string]: Record<number, Record<string, LoadoutItem>>;
-}
-
 const SLOT_ORDER = [
   "Barrel", "Underbarrel", "Ammunition", "Muzzle", "Magazine",
   "Top Accessory", "Left Accessory", "Right Accessory", "Scope",
   "Optic Accessory", "Ergonomics",
 ];
 
+const TYPE_BADGE: Record<string, string> = {
+  "Assault Rifle": "AR",
+  SMG: "SMG",
+  LMG: "LMG",
+  DMR: "DMR",
+  "Sniper Rifle": "Sniper",
+  Shotgun: "Shotgun",
+  Carbine: "Carbine",
+  Secondary: "Pistol",
+};
+
+function badgeClass(type: string): string {
+  return `${styles.badgeTag} ${styles[`badgeTag${TYPE_BADGE[type] || type}`] || ""}`;
+}
+
 export default function WeaponApp({
   weaponList,
   allTypes,
+  updatedAt = "Sep 17, 2026",
+  season = "Season 4",
 }: {
   weaponList: WeaponListItem[];
   allTypes: string[];
+  updatedAt?: string;
+  season?: string;
 }) {
   const [search, setSearch] = useState("");
   const [activeFilter, setActiveFilter] = useState<string>("All");
   const [selectedSlug, setSelectedSlug] = useState<string | null>(null);
   const [rank, setRank] = useState(1);
   const [weaponData, setWeaponData] = useState<WeaponData | null>(null);
-  const [modeData, setModeData] = useState<ModeLoadouts | null>(null);
   const [loading, setLoading] = useState(false);
 
   const filtered = weaponList.filter((w) => {
@@ -66,14 +85,9 @@ export default function WeaponApp({
     abortRef.current = controller;
     setLoading(true);
     setWeaponData(null);
-    setModeData(null);
     try {
-      const [loadoutRes, modeRes] = await Promise.all([
-        fetch(`/api/weapon/${slug}`, { signal: controller.signal }),
-        fetch(`/api/loadout/${slug}`, { signal: controller.signal }),
-      ]);
-      if (loadoutRes.ok) setWeaponData(await loadoutRes.json());
-      if (modeRes.ok) setModeData(await modeRes.json());
+      const res = await fetch(`/api/weapon/${slug}`, { signal: controller.signal });
+      if (res.ok) setWeaponData(await res.json());
     } catch {
       // aborted or failed
     }
@@ -88,7 +102,6 @@ export default function WeaponApp({
     } else {
       abortRef.current?.abort();
       setWeaponData(null);
-      setModeData(null);
     }
   }, [loadWeapon]);
 
@@ -97,17 +110,21 @@ export default function WeaponApp({
     if (selectedSlug) {
       setSelectedSlug(null);
       setWeaponData(null);
-      setModeData(null);
     }
   }, [selectedSlug]);
 
+  const selectedWeapon = useMemo(
+    () => weaponList.find((w) => w.slug === selectedSlug) || null,
+    [weaponList, selectedSlug]
+  );
+
   useEffect(() => {
-    if (weaponData) {
-      document.title = `${weaponData.displayName} Best Loadout — Free BF6 Guide`;
+    if (selectedWeapon) {
+      document.title = `${selectedWeapon.displayName} Best Loadout — Free BF6 Guide`;
     } else {
       document.title = "Free BF6 Loadout Guide — Best Attachments for Every Weapon & Rank";
     }
-  }, [weaponData]);
+  }, [selectedWeapon]);
 
   return (
     <div className={styles.page}>
@@ -134,6 +151,13 @@ export default function WeaponApp({
           <p className={styles.subtitle}>
             Pick a weapon, set your rank, see best attachments for every gun level — for free.
           </p>
+          <div className={styles.seasonInfo}>
+            <span className={styles.seasonInfoItem}>
+              <span className={styles.seasonInfoUpdated}>updated</span>
+              <span>: {updatedAt}</span>
+            </span>
+            <span className={styles.seasonInfoItem}>{season}</span>
+          </div>
         </header>
 
         <div className={styles.toolbar}>
@@ -181,7 +205,7 @@ export default function WeaponApp({
                     </div>
                     <div className={styles.itemRight}>
                       {!isActive && (
-                        <span className={`${styles.badgeTag} ${styles[`badgeTag${w.type}`] || ""}`}>{w.type}</span>
+                        <span className={badgeClass(w.type)}>{w.type}</span>
                       )}
                       <svg className={`${styles.chevron} ${isActive ? styles.chevronUp : ""}`} width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                         <path d="m9 18 6-6-6-6" />
@@ -190,7 +214,7 @@ export default function WeaponApp({
                   </div>
                   {isActive && (
                     <div className={styles.itemDetailMobile}>
-                      <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => handleSelectWeapon(null)} loading={loading} />
+                      <WeaponDetail weapon={selectedWeapon} data={weaponData} rank={rank} setRank={setRank} onClose={() => handleSelectWeapon(null)} loading={loading} />
                     </div>
                   )}
                 </div>
@@ -201,7 +225,7 @@ export default function WeaponApp({
           {selectedSlug && (
             <div className={styles.detail}>
               <div className={styles.detailInner}>
-                <WeaponDetail weapon={weaponData} modeData={modeData} rank={rank} setRank={setRank} onClose={() => handleSelectWeapon(null)} loading={loading} />
+                <WeaponDetail weapon={selectedWeapon} data={weaponData} rank={rank} setRank={setRank} onClose={() => handleSelectWeapon(null)} loading={loading} />
               </div>
             </div>
           )}
@@ -220,12 +244,12 @@ export default function WeaponApp({
 type GameMode = "battle-royale" | "ranked" | "multiplayer";
 type SubMode = "big-maps" | "small-maps";
 
-const MAX_WEIGHT = 100;
-
-function WeightBar({ loadout }: { loadout: Record<string, LoadoutItem> }) {
-  const totalWeight = Object.values(loadout).reduce((sum, item) => sum + (item.cost || 0), 0);
-  const filledSquares = Math.min(Math.floor(totalWeight / 10), 10);
-  const isMax = totalWeight >= MAX_WEIGHT;
+function WeightBar({ budget }: { budget: string }) {
+  const match = budget.match(/^(\d+)\/(\d+)$/);
+  const current = match ? Number(match[1]) : 0;
+  const max = match ? Number(match[2]) : 100;
+  const filledSquares = max > 0 ? Math.min(Math.floor((current / max) * 10), 10) : 0;
+  const isMax = max > 0 && current >= max;
 
   return (
     <div className={styles.weightBar}>
@@ -235,15 +259,22 @@ function WeightBar({ loadout }: { loadout: Record<string, LoadoutItem> }) {
         ))}
       </div>
       <span className={`${styles.weightText} ${isMax ? styles.weightTextMax : ""}`}>
-        {totalWeight}/{MAX_WEIGHT}
+        {budget}
       </span>
     </div>
   );
 }
 
-function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
-  weapon: WeaponData | null;
-  modeData: ModeLoadouts | null;
+function WeaponDetail({
+  weapon,
+  data,
+  rank,
+  setRank,
+  onClose,
+  loading,
+}: {
+  weapon: WeaponListItem | null;
+  data: WeaponData | null;
   rank: number;
   setRank: (n: number) => void;
   onClose: () => void;
@@ -252,31 +283,52 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
   const maxRank = 40;
   const [mode, setMode] = useState<GameMode>("multiplayer");
   const [subMode, setSubMode] = useState<SubMode>("big-maps");
+  const [playstyle, setPlaystyle] = useState<string>("");
   const [changedSlots, setChangedSlots] = useState<Record<string, "changed" | "new" | "removed">>({});
-  const prevLoadoutRef = useRef<Record<string, LoadoutItem>>({});
+  const prevCardRef = useRef<Record<string, CardAttach>>({});
   const animTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const modeKey = mode === "multiplayer" ? subMode : mode;
-  const modeLoadout = modeData?.[modeKey];
 
-  const loadout = useMemo<Record<string, LoadoutItem>>(() => {
-    if (!weapon) return {};
-    if (modeLoadout) return modeLoadout[rank] || {};
-    return weapon.loadouts?.[rank] || {};
-  }, [weapon, modeLoadout, rank]);
+  const cards = useMemo<LoadoutCard[]>(() => {
+    if (!data) return [];
+    return data.modes?.[modeKey]?.[String(rank)] || [];
+  }, [data, modeKey, rank]);
+
+  const card = useMemo<LoadoutCard | undefined>(() => {
+    if (!cards.length) return undefined;
+    const active = playstyle && cards.find((c) => c.title === playstyle);
+    return active || cards[0];
+  }, [cards, playstyle]);
+
+  const levelByAttach = useMemo(() => {
+    const map: Record<string, number | null> = {};
+    for (const a of data?.attachments || []) map[a.name.toLowerCase()] = a.level;
+    return map;
+  }, [data]);
+
+  const sortedAttachments = useMemo(() => {
+    if (!card) return [];
+    const known = SLOT_ORDER.filter((s) => s !== "");
+    const knownMatches = known
+      .map((slot) => card.attachments.find((a) => a.slot === slot))
+      .filter((a): a is CardAttach => Boolean(a));
+    const others = card.attachments.filter((a) => !known.includes(a.slot));
+    return [...knownMatches, ...others];
+  }, [card]);
 
   useEffect(() => {
-    if (!weapon) return;
-    const prevLoadout = prevLoadoutRef.current;
+    if (!card) return;
+    const prev = prevCardRef.current;
     const changes: Record<string, "changed" | "new" | "removed"> = {};
 
-    for (const [slot, item] of Object.entries(loadout)) {
-      const prev = prevLoadout[slot];
-      if (!prev) changes[slot] = "new";
-      else if (prev.name !== item.name || prev.cost !== item.cost) changes[slot] = "changed";
+    for (const a of card.attachments) {
+      const old = prev[a.slot];
+      if (!old) changes[a.slot] = "new";
+      else if (old.name !== a.name || old.cost !== a.cost) changes[a.slot] = "changed";
     }
-    for (const slot of Object.keys(prevLoadout)) {
-      if (!loadout[slot]) changes[slot] = "removed";
+    for (const slot of Object.keys(prev)) {
+      if (!card.attachments.some((a) => a.slot === slot)) changes[slot] = "removed";
     }
 
     if (Object.keys(changes).length > 0) {
@@ -286,8 +338,10 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
         animTimeoutRef.current = setTimeout(() => setChangedSlots({}), 900);
       });
     }
-    prevLoadoutRef.current = { ...loadout };
-  }, [loadout, weapon]);
+    const next: Record<string, CardAttach> = {};
+    for (const a of card.attachments) next[a.slot] = a;
+    prevCardRef.current = next;
+  }, [card]);
 
   if (loading || !weapon) {
     return (
@@ -309,7 +363,7 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
     <>
       <div className={styles.detailTop}>
         <div>
-          <span className={`${styles.typeBadge} ${styles[`badgeTag${weapon.type}`] || ""}`}>{weapon.type}</span>
+          <span className={badgeClass(weapon.type)}>{weapon.type}</span>
           <h2 className={styles.detailName}>{weapon.displayName} Best Loadout</h2>
         </div>
         <button className={styles.closeBtn} onClick={onClose}>
@@ -325,12 +379,10 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
         </div>
       )}
 
-      {weapon.noData ? (
+      {!data ? (
         <div className={styles.noDataMessage}>
           <p>No attachment data available for this weapon yet.</p>
         </div>
-      ) : loading ? (
-        <div className={styles.noDataMessage}><p>Loading...</p></div>
       ) : (
         <>
           <div className={styles.modeTabs}>
@@ -349,6 +401,16 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
             )}
           </div>
 
+          {cards.length > 1 && (
+            <div className={styles.modeTabsSub} style={{ marginBottom: "1rem" }}>
+              {cards.map((c) => (
+                <button key={c.title} className={`${styles.modeTabSub} ${card?.title === c.title ? styles.modeTabSubActive : ""}`} onClick={() => setPlaystyle(c.title)}>
+                  {c.title}
+                </button>
+              ))}
+            </div>
+          )}
+
           <div className={styles.rankSection}>
             <div className={styles.rankHeader}>
               <div>
@@ -362,28 +424,28 @@ function WeaponDetail({ weapon, modeData, rank, setRank, onClose, loading }: {
             </div>
           </div>
 
-          <WeightBar loadout={loadout} />
+          {card && <WeightBar budget={card.budget} />}
 
           <div className={styles.attachments}>
-            {SLOT_ORDER.filter((s) => loadout[s] && s !== "").map((slotName) => {
-              const item = loadout[slotName];
-              const changeType = changedSlots[slotName];
+            {sortedAttachments.map((att) => {
+              const changeType = changedSlots[att.slot];
               const rowClass = changeType === "new" ? `${styles.attachRow} ${styles.attachRowNew}` : changeType === "changed" ? `${styles.attachRow} ${styles.attachRowChanged}` : changeType === "removed" ? `${styles.attachRow} ${styles.attachRowRemoved}` : styles.attachRow;
+              const level = levelByAttach[att.name.toLowerCase()];
 
               return (
-                <div key={slotName} className={rowClass}>
+                <div key={`${att.slot}-${att.name}`} className={rowClass}>
                   <div className={styles.attachLeft}>
-                    <div className={styles.attachName}>{item.name}</div>
+                    <div className={styles.attachName}>{att.name}</div>
                     <div className={styles.attachSlotInfo}>
-                      {slotName}
+                      {att.slot}
                       <svg className={styles.attachWeightIcon} width="10" height="10" viewBox="0 0 24 24" fill="currentColor">
                         <path d="M12 3L4 9v12h16V9l-8-6zm0 2.5L18 10v9H6v-9l6-4.5z" />
                         <path d="M12 8l-4 3v5h8v-5l-4-3z" />
                       </svg>
-                      {item.cost}
+                      {att.cost}
                     </div>
                   </div>
-                  <div className={styles.attachLevel}>{item.unlock || (item.mastery > 0 ? `Level ${item.mastery}` : "")}</div>
+                  <div className={styles.attachLevel}>{level != null && level > 0 ? `Level ${level}` : ""}</div>
                 </div>
               );
             })}

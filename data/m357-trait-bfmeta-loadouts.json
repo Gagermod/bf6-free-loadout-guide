@@ -1,0 +1,5460 @@
+{
+  "weapon": "m357-trait",
+  "modes": {
+    "battle-royale": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "30/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ]
+    },
+    "ranked": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "30/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ]
+    },
+    "big-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "30/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ]
+    },
+    "small-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "30/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "CQ RDS 1.25X"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW RED"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "40/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "50 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "55/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "BASIC"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 10,
+              "name": "5 MW GREEN"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 20,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 5,
+              "name": "8RND SPEEDLOADER"
+            },
+            {
+              "slot": "Scope",
+              "cost": 10,
+              "name": "MINI FLEX 1.00X"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "name": "8RND SPEEDLOADER",
+      "slot": "Magazine",
+      "level": 0
+    },
+    {
+      "name": "BASIC",
+      "slot": "Barrel",
+      "level": 0
+    },
+    {
+      "name": "FMJ",
+      "slot": "Ammunition",
+      "level": 0
+    },
+    {
+      "name": "IRON SIGHTS",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "SF-G2 5.00X",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "SPEED HOLSTER",
+      "slot": "Ergonomics",
+      "level": 0
+    },
+    {
+      "name": "SU-230 LPVO",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "CQ RDS 1.25X",
+      "slot": "Scope",
+      "level": 1
+    },
+    {
+      "name": "5 MW RED",
+      "slot": "Underbarrel",
+      "level": 2
+    },
+    {
+      "name": "RO-M 1.75X",
+      "slot": "Scope",
+      "level": 3
+    },
+    {
+      "name": "SDO 3.50X",
+      "slot": "Scope",
+      "level": 4
+    },
+    {
+      "name": "TUNGSTEN CORE",
+      "slot": "Ammunition",
+      "level": 5
+    },
+    {
+      "name": "MINI FLEX 1.00X",
+      "slot": "Scope",
+      "level": 6
+    },
+    {
+      "name": "SU-123 1.50X",
+      "slot": "Scope",
+      "level": 7
+    },
+    {
+      "name": "FLASHLIGHT",
+      "slot": "Underbarrel",
+      "level": 8
+    },
+    {
+      "name": "ST PRISIM 5.00X",
+      "slot": "Scope",
+      "level": 9
+    },
+    {
+      "name": "A-P2 1.75X",
+      "slot": "Scope",
+      "level": 10
+    },
+    {
+      "name": "5 MW GREEN",
+      "slot": "Underbarrel",
+      "level": 11
+    },
+    {
+      "name": "OSA-7 1.00X",
+      "slot": "Scope",
+      "level": 12
+    },
+    {
+      "name": "BF-2M 2.50X",
+      "slot": "Scope",
+      "level": 13
+    },
+    {
+      "name": "8RND MOON CLIP",
+      "slot": "Magazine",
+      "level": 14
+    },
+    {
+      "name": "CCO 2.00X",
+      "slot": "Scope",
+      "level": 15
+    },
+    {
+      "name": "ROX 1.50X",
+      "slot": "Scope",
+      "level": 16
+    },
+    {
+      "name": "LASER/LIGHT COMBO RED",
+      "slot": "Underbarrel",
+      "level": 17
+    },
+    {
+      "name": "PVQ-31 4.00X",
+      "slot": "Scope",
+      "level": 18
+    },
+    {
+      "name": "RO-S 1.25X",
+      "slot": "Scope",
+      "level": 19
+    },
+    {
+      "name": "FRANGIBLE",
+      "slot": "Ammunition",
+      "level": 20
+    },
+    {
+      "name": "3VZR 1.75X",
+      "slot": "Scope",
+      "level": 21
+    },
+    {
+      "name": "BAKER 3.00X",
+      "slot": "Scope",
+      "level": 22
+    },
+    {
+      "name": "50 MW GREEN",
+      "slot": "Underbarrel",
+      "level": 23
+    },
+    {
+      "name": "R-MR 1.00X",
+      "slot": "Scope",
+      "level": 24
+    },
+    {
+      "name": "1P87 1.50X",
+      "slot": "Scope",
+      "level": 25
+    },
+    {
+      "name": "LASER/LIGHT COMBO GREEN",
+      "slot": "Underbarrel",
+      "level": 26
+    },
+    {
+      "name": "LDS 4.50X",
+      "slot": "Scope",
+      "level": 27
+    },
+    {
+      "name": "R4T 2.00X",
+      "slot": "Scope",
+      "level": 28
+    },
+    {
+      "name": "HOLLOW POINT",
+      "slot": "Ammunition",
+      "level": 29
+    },
+    {
+      "name": "2PRO 1.25X",
+      "slot": "Scope",
+      "level": 30
+    }
+  ]
+}

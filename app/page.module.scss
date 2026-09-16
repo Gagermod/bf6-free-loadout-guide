@@ -44,6 +44,34 @@
 .subtitle {
   font-size: 1rem;
   color: var(--color-gray-60);
+  margin-bottom: 1.25rem;
+}
+
+.seasonInfo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.seasonInfoItem {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.375rem 0.75rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  background: var(--color-black-12);
+  border: 1px solid var(--color-black-15);
+  border-radius: var(--radius-xs);
+  color: var(--color-gray-60);
+  font-variant-numeric: tabular-nums;
+}
+
+.seasonInfoUpdated {
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--color-white);
 }
 
 // Toolbar

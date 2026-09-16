@@ -66,3 +66,9 @@ scripts/*.txt
 # generated reports
 weight-check-report.txt
 weight-verification-report.txt
+
+# playwright test output
+test-results/
+playwright-report/
+
+.forge-permissions.json

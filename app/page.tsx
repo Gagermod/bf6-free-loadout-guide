@@ -1,24 +1,13 @@
-import loadoutsData from "../data/weapon-loadouts.json";
+import weaponsMeta from "../data/_weapons-meta.json";
+import siteMeta from "../data/_site-meta.json";
 import WeaponApp from "./WeaponApp";
 
-interface LoadoutItem {
-  name: string;
-  cost: number;
-  mastery: number;
-  unlock?: string | null;
-}
+const meta = weaponsMeta as Record<
+  string,
+  { displayName: string; type: string; image?: string }
+>;
 
-interface WeaponData {
-  displayName: string;
-  type: string;
-  image?: string;
-  stats: Record<string, string | null>;
-  loadouts: Record<number, Record<string, LoadoutItem>>;
-  noData?: boolean;
-}
-
-const weapons = loadoutsData as Record<string, WeaponData>;
-const weaponList = Object.entries(weapons)
+const weaponList = Object.entries(meta)
   .filter(([, data]) => data.type !== "Melee")
   .map(([slug, data]) => ({
     slug,
@@ -30,5 +19,12 @@ const weaponList = Object.entries(weapons)
 const allTypes = [...new Set(weaponList.map((w) => w.type))];
 
 export default function Home() {
-  return <WeaponApp weaponList={weaponList} allTypes={allTypes} />;
+  return (
+    <WeaponApp
+      weaponList={weaponList}
+      allTypes={allTypes}
+      updatedAt={siteMeta.updatedAt}
+      season={siteMeta.season}
+    />
+  );
 }

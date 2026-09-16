@@ -1,0 +1,5375 @@
+{
+  "weapon": "vz-61",
+  "modes": {
+    "battle-royale": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "30/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "ranked": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "30/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "big-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "30/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    },
+    "small-maps": {
+      "1": [
+        {
+          "title": "Recommended",
+          "budget": "30/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "2": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "3": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "4": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "5": [
+        {
+          "title": "Recommended",
+          "budget": "50/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "6": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "7": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "RIBBED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "8": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "9": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "10": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 15,
+              "name": "HOLLOW POINT"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "11": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "12": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "13": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "14": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "15": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "16": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "17": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "18": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 30,
+              "name": "CANTED STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "20": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "21": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "22": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "23": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "24": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "25": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Underbarrel",
+              "cost": 20,
+              "name": "FOLDING STUBBY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Muzzle",
+              "cost": 5,
+              "name": "SINGLE-PORT BRAKE"
+            },
+            {
+              "slot": "Ergonomics",
+              "cost": 5,
+              "name": "IMPROVED MAG CATCH"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 10,
+              "name": "10RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "26": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "27": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "28": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "29": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "30": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "31": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "32": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "33": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "34": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "35": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "36": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "37": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "38": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "39": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ],
+      "40": [
+        {
+          "title": "Recommended",
+          "budget": "60/60",
+          "attachments": [
+            {
+              "slot": "Barrel",
+              "cost": 10,
+              "name": "115MM FACTORY"
+            },
+            {
+              "slot": "Ammunition",
+              "cost": 5,
+              "name": "FMJ"
+            },
+            {
+              "slot": "Magazine",
+              "cost": 40,
+              "name": "20RND MAGAZINE"
+            },
+            {
+              "slot": "Scope",
+              "cost": 5,
+              "name": "IRON SIGHTS"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "attachments": [
+    {
+      "name": "10RND MAGAZINE",
+      "slot": "Magazine",
+      "level": 0
+    },
+    {
+      "name": "115MM FACTORY",
+      "slot": "Barrel",
+      "level": 0
+    },
+    {
+      "name": "FMJ",
+      "slot": "Ammunition",
+      "level": 0
+    },
+    {
+      "name": "IRON SIGHTS",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "SU-230 LPVO",
+      "slot": "Scope",
+      "level": 0
+    },
+    {
+      "name": "MINI FLEX 1.00X",
+      "slot": "Scope",
+      "level": 1
+    },
+    {
+      "name": "FOLDING STUBBY",
+      "slot": "Underbarrel",
+      "level": 2
+    },
+    {
+      "name": "FRANGIBLE",
+      "slot": "Ammunition",
+      "level": 4
+    },
+    {
+      "name": "R-MR 1.00X",
+      "slot": "Scope",
+      "level": 5
+    },
+    {
+      "name": "RIBBED STUBBY",
+      "slot": "Underbarrel",
+      "level": 6
+    },
+    {
+      "name": "HOLLOW POINT",
+      "slot": "Ammunition",
+      "level": 8
+    },
+    {
+      "name": "STANDARD SUPPRESSOR",
+      "slot": "Muzzle",
+      "level": 9
+    },
+    {
+      "name": "CQ RDS 1.25X",
+      "slot": "Scope",
+      "level": 10
+    },
+    {
+      "name": "CANTED STUBBY",
+      "slot": "Underbarrel",
+      "level": 11
+    },
+    {
+      "name": "TUNGSTEN CORE",
+      "slot": "Ammunition",
+      "level": 13
+    },
+    {
+      "name": "IMPROVED MAG CATCH",
+      "slot": "Ergonomics",
+      "level": 14
+    },
+    {
+      "name": "RO-S 1.25X",
+      "slot": "Scope",
+      "level": 15
+    },
+    {
+      "name": "SYNTHETIC TIP",
+      "slot": "Ammunition",
+      "level": 18
+    },
+    {
+      "name": "SINGLE-PORT BRAKE",
+      "slot": "Muzzle",
+      "level": 19
+    },
+    {
+      "name": "ROX 1.50X",
+      "slot": "Scope",
+      "level": 20
+    },
+    {
+      "name": "STIPPLED STUBBY",
+      "slot": "Underbarrel",
+      "level": 21
+    },
+    {
+      "name": "A-P2 1.75X",
+      "slot": "Scope",
+      "level": 23
+    },
+    {
+      "name": "CQB SUPPRESSOR",
+      "slot": "Muzzle",
+      "level": 25
+    },
+    {
+      "name": "20RND MAGAZINE",
+      "slot": "Magazine",
+      "level": 26
+    }
+  ]
+}
