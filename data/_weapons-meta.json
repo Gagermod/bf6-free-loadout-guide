@@ -19,6 +19,11 @@
     "type": "Assault Rifle",
     "image": "https://img.battlefieldmeta.gg/b36a4_version1/gunFullDisplay"
   },
+  "brod-3": {
+    "displayName": "BROD 3",
+    "type": "Carbine",
+    "image": "https://img.battlefieldmeta.gg/brod-3/gunFullDisplay"
+  },
   "cz3a1": {
     "displayName": "CZ3A1",
     "type": "SMG",
@@ -33,6 +38,11 @@
     "displayName": "DRS-IAR",
     "type": "LMG",
     "image": "https://img.battlefieldmeta.gg/drs-iar_version2/gunFullDisplay"
+  },
+  "ef88": {
+    "displayName": "EF88",
+    "type": "Assault Rifle",
+    "image": "https://img.battlefieldmeta.gg/ef88/gunFullDisplay"
   },
   "es57": {
     "displayName": "ES 5.7",
@@ -53,6 +63,11 @@
     "displayName": "GRT-CPS",
     "type": "DMR",
     "image": "https://img.battlefieldmeta.gg/grt-cps/gunFullDisplay"
+  },
+  "interdictor": {
+    "displayName": "INTERDICTOR",
+    "type": "Sniper Rifle",
+    "image": "https://img.battlefieldmeta.gg/interdictor/gunFullDisplay"
   },
   "kord-6p67": {
     "displayName": "KORD 6P67",
@@ -288,6 +303,11 @@
     "displayName": "VCR-2",
     "type": "Assault Rifle",
     "image": "https://img.battlefieldmeta.gg/vcr-2/gunFullDisplay"
+  },
+  "vssm": {
+    "displayName": "VSSM",
+    "type": "DMR",
+    "image": "https://img.battlefieldmeta.gg/vssm/gunFullDisplay"
   },
   "vz-61": {
     "displayName": "vz. 61",
